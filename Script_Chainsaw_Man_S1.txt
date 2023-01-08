@@ -1,0 +1,1214 @@
+Index;Season;Episode;Episode_name;Character_name;Character_race;Gender;Dialog
+1;1;1;Dog & Chainsaw;Denji;Hybrid;Male;Better head to work. It's about 60,000 a month for cutting down trees, right? Then there's the kidney I sold. That was 1.2 million. My right eye was 300,000. Sold one of my nuts... How much was that, again? I think... not even 100,000. And I still owe... About 38,040,000 yen. I heard you, Pochita. Let's kill this thing already. A dead devil's usually good for about 300,000... Devil hunting pays the best, easy. Gotta be the Tomato Devil. He'll revive from the seeds, so you'll wanna burn those.
+2;1;1;Dog & Chainsaw;Yakuza Debt Collector;Human;Male;Nice work, Denji. This carcass will bring in a fair price on the black market. I'll pay you 400,000.
+3;1;1;Dog & Chainsaw;Denji;Hybrid;Male;Hey, thanks!
+4;1;1;Dog & Chainsaw;Yakuza Debt Collector;Human;Male;After what you owe and the interest, that leaves 170,000. So after the finder's fee, admin fee, management costs, and so on...
+5;1;1;Dog & Chainsaw;Denji;Hybrid;Male;Leaves me with 70,000. After the water bill, and some other stuff I owe... Funny how that works. I've got 1,800 yen left. No food at home, and this is gonna have to last us a month, so... Pochita, looks like dinner's gonna be a slice of bread.
+6;1;1;Dog & Chainsaw;Yakuza 1;Human;Male;Why hire a brat like that to hunt devils?
+7;1;1;Dog & Chainsaw;Yakuza Debt Collector;Human;Male;He's paying off what he owes us. Well, technically, it was his deadbeat old man's debt.
+8;1;1;Dog & Chainsaw;Yakuza 1;Human;Male;And a kid with a pet devil can get the job done?
+9;1;1;Dog & Chainsaw;Yakuza Debt Collector;Human;Male;The thing about real devil hunters is... They don't pass devil carcasses onto the yakuza. Besides, the best thing about Denji is he does what he's told.
+10;1;1;Dog & Chainsaw;Yakuza 1;Human;Male;Hey, dog! I'll give you 100 yen to eat this cigarette.
+11;1;1;Dog & Chainsaw;Denji;Hybrid;Male;For real? Don't mind if I do.
+12;1;1;Dog & Chainsaw;Yakuza Debt Collector;Human;Male;We'll be in touch when there's another devil. Try and run, and you're pig slop.
+13;1;1;Dog & Chainsaw;Denji;Hybrid;Male;That'll keep us for another three days. The other day I heard... That normally, people put jam on their bread, before eating it. Normal's just a dream for us, though. Doubt I'll pay off this debt before I die. Probably gonna die without ever having a girlfriend, too. Not like I could invite a girl to this dump. No money to go on dates, either. If I could have one dream come true... I wanna score with a girl before I die.
+14;1;1;Dog & Chainsaw;Yakuza Debt Collector;Human;Male;Bastard hung himself without paying this month's installment first. Boy, you've got until tomorrow to put 700,000 together. You can beg for it, whore yourself out... I don't care. Get it done. Otherwise, we chop you up and sell the bits.
+15;1;1;Dog & Chainsaw;Denji;Hybrid;Male;A ch-chainsaw...? A devil. If you're gonna kill me, just do it. I'm dead either way. It's hurt? You're gonna die, too? Bite me! I heard that drinking blood heals a devil. If you don't wanna die, bite me! My blood's not free, though. This is a deal! I'll help you... So, you help me. Because I don't wanna die, after all. Why don't you hire me as a devil hunter? Too hungry to sleep. When I can't sleep, I start thinking about money, and then it's even harder to sleep. I know what dream I wanna have when I sleep. Gonna put jam on my bread, and share it with you. Then I'm gonna flirt with a girl... I'll play video games with her, and then we'll fall asleep hugging each other. Sounds sweet, right? Y'know, I heard my mom died from some heart disease that made her cough up blood.
+16;1;1;Dog & Chainsaw;Yakuza Debt Collector;Human;Male;Got a devil for you, Denji. Time for work.
+17;1;1;Dog & Chainsaw;Denji;Hybrid;Male;Wish they'd at least let me dream... There's a devil in here, huh? I don't see anything. You think it's hiding? Or maybe it left already?
+18;1;1;Dog & Chainsaw;Yakuza Debt Collector;Human;Male;Denji, my boy... we're pretty grateful to you, y'know?
+19;1;1;Dog & Chainsaw;Denji;Hybrid;Male;Yeah?
+20;1;1;Dog & Chainsaw;Yakuza Debt Collector;Human;Male;You're as loyal as a dog, and you work for cheap like one, too. Only problem with dogs is I can't stand the stench. Even yakuza think about getting bigger and making more money, kid. So we did like you, and made a deal with a devil. We wanted demonic power...
+21;1;1;Dog & Chainsaw;Zombie Devil;Devil;Devil;And I want devil hunters... Dead! Y'know, little devil hunter, these guys are dumb as hell. Total suckers! I offer them a bit of demonic power, and they offer to become my slaves... Even though the power turns them into zombies. See, because I'm the Zombie Devil. And I hate devil hunters, because you go around killing us devils. So I'm gonna kill you. Boys, tear him apart and toss him in the trash.
+22;1;1;Dog & Chainsaw;Denji;Hybrid;Male;Shit! How do I get out of here? Get off! It's not like I'm asking to be rich. All I want is a normal life! And I can't even have that?! Pochita... Pochita! Pochita, time for work. Pochita, there's a good chance I'm gonna die fighting a devil. My only regret would be leaving you on your own. You could end up starving to death... Or some other devil hunter might kill you. I've heard some devils can take over dead bodies. If that's something you can do... then I want you to have my body. The yakuza won't be on your case if you wait until I've been buried, right? And then you could move out of here... and then... Yeah. I want you to live a normal life, and die a normal death. You've gotta make my dream come true. Pochita? Did you take my body, like I said?
+23;1;1;Dog & Chainsaw;Pochita;Devil;Devil;I always loved hearing you talk about your dreams, Denji. Here's the deal. I'll give you my heart... And in exchange, I want you to show me your dream.
+24;1;1;Dog & Chainsaw;Denji;Hybrid;Male;Pochita?! I'm not hurt? Pochita...?
+25;1;1;Dog & Chainsaw;Zombie Devil;Devil;Devil;What is this? You're alive after being sliced up? Why? Gross! I seriously hate devil hunters. Guys, go ahead and eat him.
+26;1;1;Dog & Chainsaw;Denji;Hybrid;Male;These guys had plenty already, so why'd they want even more? Am I the same? I wasn't satisfied with the happiness I had with Pochita. I kept dreaming about a better life. I guess we all dream about stuff like that, huh? I can't blame you, then. And I won't, but... If you get in our way? You'll die!
+27;1;1;Dog & Chainsaw;Zombie Devil;Devil;Devil;He's bound to stay dead after being eaten. What are you?! Did that devil runt take your body?! That means you're one of us!
+28;1;1;Dog & Chainsaw;Denji;Hybrid;Male;Ow...
+29;1;1;Dog & Chainsaw;Zombie Devil;Devil;Devil;It hurts! Stay away!
+30;1;1;Dog & Chainsaw;Denji;Hybrid;Male;Move!
+31;1;1;Dog & Chainsaw;Zombie Devil;Devil;Devil;Stay back! Back! Get away! Stay away! Don't do it! Don't come near me! Die!
+32;1;1;Dog & Chainsaw;Denji;Hybrid;Male;I guess you guys went full devil, huh? Well, you hired me to be a devil hunter. So, I better kill all the devils, right?! Oh, yeah! Once you're all dead... I won't owe a damn thing!
+33;1;1;Dog & Chainsaw;Makima;Devil;Female;Someone got here before us.
+34;1;1;Dog & Chainsaw;Devil Hunter 1;Human;Male;There's still one alive.
+35;1;1;Dog & Chainsaw;Makima;Devil;Female;You've got a strange smell. Not like a human or a devil. I take it you did this?
+36;1;1;Dog & Chainsaw;Denji;Hybrid;Male;H-Hug me...
+37;1;1;Dog & Chainsaw;Makima;Devil;Female;He's human.
+38;1;1;Dog & Chainsaw;Devil Hunter 2;Human;Male;Any chance he's possessed?
+39;1;1;Dog & Chainsaw;Makima;Devil;Female;No. I can tell who's possessed with a look at their face. I came here to kill the Zombie Devil. I'm a devil hunter with Public Safety. You have two options: I can kill you like a devil, or I can keep you as my pet. If I keep you, I'll make sure you're fed.
+40;1;1;Dog & Chainsaw;Denji;Hybrid;Male;When you say that... Like, what's for breakfast?
+41;1;1;Dog & Chainsaw;Makima;Devil;Female;Bread with butter and jam, salad, coffee... And then maybe something for dessert, I think?
+42;1;1;Dog & Chainsaw;Denji;Hybrid;Male;That sounds awesome.
+43;1;2;Arrival in Tokyo;Denji;Hybrid;Male;That was my stomach.
+44;1;2;Arrival in Tokyo;Makima;Devil;Female;What's your name?
+45;1;2;Arrival in Tokyo;Denji;Hybrid;Male;It's Denji!
+46;1;2;Arrival in Tokyo;Makima;Devil;Female;I need to tell you something right now. From now on, you're in my care, Denji. I expect "yes" or "woof" for answers. I don't need a dog that says "no."
+47;1;2;Arrival in Tokyo;Denji;Hybrid;Male;When you say that...
+48;1;2;Arrival in Tokyo;Makima;Devil;Female;Someone in forensics once told me... That when we get dogs that aren't helpful, we put them down.
+49;1;2;Arrival in Tokyo;Denji;Hybrid;Male;I thought she was nice. I kind of liked her. I had no idea she was scary like this. Treating me like a damn dog... I just remembered how Pochita's dead.
+50;1;2;Arrival in Tokyo;Makima;Devil;Female;We haven't had breakfast yet, either. Let's grab something at the rest area.
+51;1;2;Arrival in Tokyo;Denji;Hybrid;Male;Sorry, but I don't have any cash.
+52;1;2;Arrival in Tokyo;Makima;Devil;Female;Just pick what you want. I'll pay. And you're conspicuous without a shirt on, so wear this. Here.
+53;1;2;Arrival in Tokyo;Denji;Hybrid;Male;All my life people have avoided me, saying I'm filthy and smell bad. No one's ever been nice to me before. Much less a girl who looks this good! I love her! I'll take some udon...
+54;1;2;Arrival in Tokyo;Denji;Hybrid;Male;Udon and... a sausage! Is that cool?
+55;1;2;Arrival in Tokyo;Makima;Devil;Female;Sure is. I'll take a curry udon, please.
+56;1;2;Arrival in Tokyo;Udon Owner;Human;Male;Coming up.
+57;1;2;Arrival in Tokyo;Denji;Hybrid;Male;Oh, that sounds good, too...
+58;1;2;Arrival in Tokyo;Makima;Devil;Female;Whoa, there. Denji? You okay?
+59;1;2;Arrival in Tokyo;Denji;Hybrid;Male;You smell good.
+60;1;2;Arrival in Tokyo;Devil Hunter 1;Human;Male;How much will it be?
+61;1;2;Arrival in Tokyo;Udon Owner;Human;Male;Gimme one sec...
+62;1;2;Arrival in Tokyo;Makima;Devil;Female;Denji?
+63;1;2;Arrival in Tokyo;Udon Owner;Human;Male;It'll be 1,100 yen, all together.
+64;1;2;Arrival in Tokyo;Denji;Hybrid;Male;Sorry about that! The chainsaws cut me up, too,
+65;1;2;Arrival in Tokyo;Devil Hunter 1;Human;Male;Here's 2,000.
+66;1;2;Arrival in Tokyo;Denji;Hybrid;Male;so I think I'm a little low on blood right now.
+67;1;2;Arrival in Tokyo;Makima;Devil;Female;How did you end up like this?
+68;1;2;Arrival in Tokyo;Denji;Hybrid;Male;I had a pet devil, and he replaced my heart. Kinda hard to believe, huh? I don't really wanna believe it, either. Pochita dying for my sake...
+69;1;2;Arrival in Tokyo;Makima;Devil;Female;There's not a lot of precedent for your condition, even from a historical perspective. It doesn't even have a name. I believe you. I've got a particularly good sense of smell. So I can tell. Your best friend is alive inside of you. Not in the sentimental sense, either. Your body has the scents of both a human and a devil.
+70;1;2;Arrival in Tokyo;Denji;Hybrid;Male;Is that right? That's awesome! Really... awesome... Udon?! The udon? Is it cool if I eat my udon?
+71;1;2;Arrival in Tokyo;Makima;Devil;Female;Are you all right? Can you eat on your own?
+72;1;2;Arrival in Tokyo;Denji;Hybrid;Male;I can... I can not.
+73;1;2;Arrival in Tokyo;Makima;Devil;Female;Here. Say, "Ahh."
+74;1;2;Arrival in Tokyo;Denji;Hybrid;Male;Ahh...
+75;1;2;Arrival in Tokyo;Makima;Devil;Female;Is it good?
+76;1;2;Arrival in Tokyo;Denji;Hybrid;Male;Woof!
+77;1;2;Arrival in Tokyo;Makima;Devil;Female;You are really sweet to be enjoying soggy udon this much. A lot like a dog, actually.
+78;1;2;Arrival in Tokyo;Denji;Hybrid;Male;Um... what's your name?
+79;1;2;Arrival in Tokyo;Makima;Devil;Female;Makima.
+80;1;2;Arrival in Tokyo;Denji;Hybrid;Male;Miss Makima... is there a type of guy you l-like?
+81;1;2;Arrival in Tokyo;Makima;Devil;Female;I'm into the "Denji" type.
+82;1;2;Arrival in Tokyo;Denji;Hybrid;Male;Denji? Dude, that's me. Is there a type of guy you like?
+83;1;2;Arrival in Tokyo;Makima;Devil;Female;I'm into the "Denji" type.
+84;1;2;Arrival in Tokyo;Denji;Hybrid;Male;I like you, too, Miss Makima.
+85;1;2;Arrival in Tokyo;Makima;Devil;Female;Denji? This way, come on. This is the Tokyo headquarters for our Devil Hunters. There are over a thousand Devil Hunters in Tokyo, including civilians, but Public Safety has the best benefits and a lot of paid vacation time.
+86;1;2;Arrival in Tokyo;Denji;Hybrid;Male;If Miss Makima likes me... Then maybe, if we work together, we'll eventually get together? And if we get together... we can get together, right? I wanna! I wanna get together with her real bad!
+87;1;2;Arrival in Tokyo;Makima;Devil;Female;Denji...
+88;1;2;Arrival in Tokyo;Denji;Hybrid;Male;Yeah?
+89;1;2;Arrival in Tokyo;Makima;Devil;Female;We're supposed to wear uniforms, so put this on. Once you've changed, I'll introduce you to a coworker. This is Aki Hayakawa. He started three years before you, Denji. You're going to be shadowing him today.
+90;1;2;Arrival in Tokyo;Denji;Hybrid;Male;I'm not working with you, Miss Makima?
+91;1;2;Arrival in Tokyo;Aki;Human;Male;That should be obvious. You're not even in her league. Time for patrol.
+92;1;2;Arrival in Tokyo;Denji;Hybrid;Male;No! Miss Makima!
+93;1;2;Arrival in Tokyo;Aki;Human;Male;Damn it, get up.
+94;1;2;Arrival in Tokyo;Denji;Hybrid;Male;No way! I wanna work with Miss Makima!
+95;1;2;Arrival in Tokyo;Makima;Devil;Female;If you do a good job, we can work together someday. So, do that, okay?
+96;1;2;Arrival in Tokyo;Denji;Hybrid;Male;Hey, big man. Does Miss Makima have a boyfriend? Hey, come on. Hey!
+97;1;2;Arrival in Tokyo;Aki;Human;Male;Come with me. You need to quit this job. Show up tomorrow, and I'll kick your ass again.
+98;1;2;Arrival in Tokyo;Denji;Hybrid;Male;Why, though?
+99;1;2;Arrival in Tokyo;Aki;Human;Male;Look, I'm trying to be nice, here. People who start this job without thinking it through end up dead. I've had colleagues who got into devil hunting for the payday, and it got them all killed by devils. The survivors are the ones with real motivation. You're just after Makima, right? That's why you took the job?
+100;1;2;Arrival in Tokyo;Denji;Hybrid;Male;Ding-ding!
+101;1;2;Arrival in Tokyo;Aki;Human;Male;Then I'm glad I hit you. I'll let her know that you ran off, scared away by the devils.
+102;1;2;Arrival in Tokyo;Denji;Hybrid;Male;You really are a nice guy, huh? Because... when I fight a dude... It's nuts... or nothing! I had udon for the first time today, man. A sausage, too. Got treated like a decent human being for the first time, and even had someone pay for my meal. It's like a dream come true for me. I didn't really think it through when I started devil hunting, but if I get to keep up this kind of life? I don't care if it kills me. Actually, y'know, I take it back. It's not just my life, anymore.
+103;1;2;Arrival in Tokyo;Aki;Human;Male;Makima... is not the kind of woman a punk like you should be chasing!
+104;1;2;Arrival in Tokyo;Denji;Hybrid;Male;What the hell are you saying? Sounds to me like you just like her, too!
+105;1;2;Arrival in Tokyo;Aki;Human;Male;You... really did... Only aim... for my balls...
+106;1;2;Arrival in Tokyo;Denji;Hybrid;Male;Shit. The big guy's testicles were attacked by the Nut Devil, ma'am!
+107;1;2;Arrival in Tokyo;Aki;Human;Male;That's a lie. He's lying.
+108;1;2;Arrival in Tokyo;Makima;Devil;Female;So, do you think you two can work together?
+109;1;2;Arrival in Tokyo;Denji;Hybrid;Male;No way!
+110;1;2;Arrival in Tokyo;Aki;Human;Male;He's a piece of trash!
+111;1;2;Arrival in Tokyo;Makima;Devil;Female;I'm glad two are hitting it off. Denji, you're going to be joining Hayakawa's unit.
+112;1;2;Arrival in Tokyo;Denji;Hybrid;Male;Unit?
+113;1;2;Arrival in Tokyo;Aki;Human;Male;This punk?! I've already got enough troublemakers, don't I? Adding another... I don't know...
+114;1;2;Arrival in Tokyo;Makima;Devil;Female;I told you when I put it together, right? Your team's an experimental one, operating differently from the usual method.
+115;1;2;Arrival in Tokyo;Aki;Human;Male;What exactly is he, ma'am?
+116;1;2;Arrival in Tokyo;Makima;Devil;Female;Denji's human, but can transform into a devil.
+117;1;2;Arrival in Tokyo;Denji;Hybrid;Male;Damn right! Pretty sweet, huh?
+118;1;2;Arrival in Tokyo;Aki;Human;Male;And that's the truth? I always figured those stories were baseless rumors.
+119;1;2;Arrival in Tokyo;Makima;Devil;Female;He's special. Which is why he's going to be receiving special treatment. If he tries to resign, or becomes insubordinate... Denji will be disposed of as a devil.
+120;1;2;Arrival in Tokyo;Denji;Hybrid;Male;Uh, what's that mean?
+121;1;2;Arrival in Tokyo;Makima;Devil;Female;It means we're working together until you die.
+122;1;2;Arrival in Tokyo;Aki;Human;Male;You're going to be living with me so I can keep an eye on you. Just remember, they said I can kill you if you try to run off.
+123;1;2;Arrival in Tokyo;Denji;Hybrid;Male;Hey, is Miss Makima a bad person?
+124;1;2;Arrival in Tokyo;Aki;Human;Male;If you think that's the case, then give up on her. If you're really a devil, you should just be grateful she doesn't kill you. We're Devil Hunters, got that?
+125;1;2;Arrival in Tokyo;Denji;Hybrid;Male;So, she's a good person, then?
+126;1;2;Arrival in Tokyo;Aki;Human;Male;Of course she is. She saved my life.
+127;1;2;Arrival in Tokyo;Denji;Hybrid;Male;Miss Makima... I hope I get to hug her again. Strawberry jam, plum jam, orange jam... Then some butter and honey, plus... Let's throw some cinnamon on, too. I got the best toast ever right here! So good! It's freaking fantastic!
+128;1;2;Arrival in Tokyo;Aki;Human;Male;How long are you gonna be in there?! Don't fall asleep on the toilet!
+129;1;2;Arrival in Tokyo;Devil Hunter 3;Human;Male;A Fiend has been reported in an east Nerima residence. Civilian evacuation and cordon are both complete.
+130;1;2;Arrival in Tokyo;Police 1;Human;Male;The Fiend in question has holed up in a second story room. We'll leave it to you Devil Hunters from here.
+131;1;2;Arrival in Tokyo;Police 2;Human;Male;Is this a new rookie, Hayakawa?
+132;1;2;Arrival in Tokyo;Denji;Hybrid;Male;Hey, what's a Fiend?
+133;1;2;Arrival in Tokyo;Aki;Human;Male;Did you never go to school or something?
+134;1;2;Arrival in Tokyo;Denji;Hybrid;Male;Nah, man, no.
+135;1;2;Arrival in Tokyo;Aki;Human;Male;When a devil takes control of a human corpse, you get a Fiend.
+136;1;2;Arrival in Tokyo;Denji;Hybrid;Male;Wait, doesn't that make me a Fiend?
+137;1;2;Arrival in Tokyo;Aki;Human;Male;No. Fiends always have characteristic heads. Should be obvious enough once we see him. The devil controls a Fiend's personality. You kill this one. Turn into a devil, and show me what you can do. That'll help me figure out if you're of any use.
+138;1;2;Arrival in Tokyo;Pincer Fiend;Fiend;Male;Don't look at me... You're dead! Dead, dead, dead! Damn Devil Hunters!
+139;1;2;Arrival in Tokyo;Aki;Human;Male;Hey. Why didn't you use your devil powers?
+140;1;2;Arrival in Tokyo;Denji;Hybrid;Male;Thing is... When I kill devils with my powers, they get real messed up. So, like... I coulda ended up like this Fiend, right? So I kinda... wanted to make it painless for him.
+141;1;2;Arrival in Tokyo;Aki;Human;Male;All right. Listen to me. Fiends are just like any other devil. If you're hunting them, then drop the sympathy. My entire family was killed by a devil right in front of me. I've had drinks with the cops down below. They're risking their lives to protect their wives and kids. Everyone is serious about this except you. I'd rather make any devil I kill suffer as much as possible. What are you trying to do? Make friends with them?
+142;1;2;Arrival in Tokyo;Denji;Hybrid;Male;If there's a devil I could be friends with, then yeah, I would. 'Cuz I don't have any friends.
+143;1;2;Arrival in Tokyo;Aki;Human;Male;I'll remember that.
+144;1;2;Arrival in Tokyo;Denji;Hybrid;Male;Guess I pissed him off... I was just trying to keep blood off these dirty magazines. When the chainsaws are out, blood gets everywhere and makes a real mess. I made it easy for you, so I get to keep these! Okay, the porn is secured.
+145;1;2;Arrival in Tokyo;Pochita;Devil;Devil;I want you to show me your dream.
+146;1;2;Arrival in Tokyo;Denji;Hybrid;Male;I'm pretty serious about this, Pochita. I'm already living the dream, just like our bargain said.
+147;1;2;Arrival in Tokyo;Aki;Human;Male;I'll remember that.
+148;1;2;Arrival in Tokyo;Denji;Hybrid;Male;My dream might've come true already, but he must be chasing his. I get to bathe every day, eat good food... Get to hang around a hot chick... My life's a 10 outta 10, but it feels like something's missing. Am I missing something? Something that'd give me a real perfect score? He's gotta be after some revenge shit. They're trying to protect their families. I wonder if Miss Makima is after anything like that? Miss Makima... I wanna touch her boobs. Touching boobs is a dream I gave up on a long time ago, but I've got a real job now. Maybe I could pull it off? I probably couldn't score with a girl just yet. But boobs? If I had the right plan, and the willpower, then maybe...
+149;1;2;Arrival in Tokyo;Aki;Human;Male;Everyone is serious about this except you.
+150;1;2;Arrival in Tokyo;Denji;Hybrid;Male;So that's what he meant! I've found it! Something to be serious about! My goal! It's... Boobs!
+151;1;2;Arrival in Tokyo;Makima;Devil;Female;Boobs?
+152;1;2;Arrival in Tokyo;Aki;Human;Male;Hey! Pay attention, dumbass!
+153;1;2;Arrival in Tokyo;Denji;Hybrid;Male;Listen to what?
+154;1;2;Arrival in Tokyo;Makima;Devil;Female;I'm assigning you a partner starting today, Denji.
+155;1;2;Arrival in Tokyo;Denji;Hybrid;Male;Partner?
+156;1;2;Arrival in Tokyo;Makima;Devil;Female;As a precaution, Public Safety executes patrols and smaller missions with two-person teams. This is great timing. She's here. Be careful. She's a Fiend.
+157;1;2;Arrival in Tokyo;Power;Fiend;Female;Prostrate yourselves, humans! For I am Power! Are you to be my so-called partner?!
+158;1;2;Arrival in Tokyo;Denji;Hybrid;Male;Power?! Your name's Power?! And you're a Fiend?! Are Fiends allowed to be Devil Hunters?! Well, whatever! Nice to meet you!
+159;1;2;Arrival in Tokyo;Makima;Devil;Female;Fiends, like devils, are targets for extermination. But Power's highly rational, so she's been on Hayakawa's team. I mentioned this before, but Public Safety Devil Extermination Special Division 4 is an experimental unit. The higher-ups will be looking to dissolve your team as soon as possible if you can't get results. I don't need to explain what would happen to you two if that happens, do I? Power's horns stand out a bit too much, so you'll want to patrol areas without a lot of pedestrians.
+160;1;2;Arrival in Tokyo;Power;Fiend;Female;Human! Provide me with something to kill immediately! I am starved for blood!
+161;1;2;Arrival in Tokyo;Denji;Hybrid;Male;I can put up with crazy, as long as she's hot enough. The question is, how do I get my hands on those boobs?
+162;1;2;Arrival in Tokyo;Makima;Devil;Female;If you run into any civilian Devil Hunters, or the police try to question you about what you're doing...
+163;1;2;Arrival in Tokyo;Police 3;Human;Male;We've got a pair of suspicious individuals...
+164;1;2;Arrival in Tokyo;Police 4;Human;Male;Excuse me, I need to ask you—
+165;1;2;Arrival in Tokyo;Denji;Hybrid;Male;We're with Public Safety Devil Extermination Special Division 4.
+166;1;2;Arrival in Tokyo;Makima;Devil;Female;...say that, show them your ID, and they'll make a sour face and leave you alone.
+167;1;2;Arrival in Tokyo;Denji;Hybrid;Male;Where the hell are all the devils?!
+168;1;2;Arrival in Tokyo;Power;Fiend;Female;This is likely my fault! Before becoming a Fiend, I was a devil that was feared by all! Demonic peons will likely flee the moment they catch my scent!
+169;1;2;Arrival in Tokyo;Denji;Hybrid;Male;Wait, how are we gonna get anything done, then?!
+170;1;2;Arrival in Tokyo;Makima;Devil;Female;If you have any questions, just ask Hayakawa. He's the one who put you two together.
+171;1;2;Arrival in Tokyo;Denji;Hybrid;Male;That asshole! He set me up! He stuck me with Power so I can't do anything cool! He's trying to get me fired!
+172;1;2;Arrival in Tokyo;Power;Fiend;Female;The scent of blood!
+173;1;2;Arrival in Tokyo;Denji;Hybrid;Male;Whoa! Hey, crazy, where you going?!
+174;1;2;Arrival in Tokyo;Power;Fiend;Female;The game is afoot! The battle is joined!
+175;1;2;Arrival in Tokyo;Denji;Hybrid;Male;Damn, she's fast!
+176;1;2;Arrival in Tokyo;Civilian Hunter 1;Human;Male;The scene's evacuated and blocked off. It's the Sea Cucumber Devil. Yes, the Sea Cucumber Devil. Requesting backup in front of Nerima Station. I said, it's the Sea Cucumber— Do you know what a sea cucumber is? Look, I'm trying to say— What the...?
+177;1;2;Arrival in Tokyo;Power;Fiend;Female;Did you see?! The kill is mine!
+178;1;3;Meowy's Whereabouts;Makima;Devil;Female;If Public Safety kills a civilian hunter's devil, we're guilty of obstructing their business. Normally, you'd be arrested for that kind of thing. Power, you're going to need to think a bit more before acting. And you'll have to get her under control, Denji.
+179;1;3;Meowy's Whereabouts;Denji;Hybrid;Male;I'm in trouble, too?
+180;1;3;Meowy's Whereabouts;Makima;Devil;Female;Before becoming a Fiend, Power was the Blood Devil... So she's got a talent for using blood in battle, but also gets worked up pretty easily. Maybe she's not cut out to be a Devil Hunter after all.
+181;1;3;Meowy's Whereabouts;Power;Fiend;Female;It... I-It was he who commanded me to kill!
+182;1;3;Meowy's Whereabouts;Denji;Hybrid;Male;I did not! How can you just lie like that?!
+183;1;3;Meowy's Whereabouts;Power;Fiend;Female;It is no lie! It was him! The human ordered me to kill this devil! That's the truth!
+184;1;3;Meowy's Whereabouts;Denji;Hybrid;Male;What a creep! Miss Makima, this devil's a total liar! You oughta arrest her right now! You're under arrest for the crime of being a fake-ass liar!
+185;1;3;Meowy's Whereabouts;Power;Fiend;Female;Not true! It was by his command! Devils do not lie! It is only humans who do!
+186;1;3;Meowy's Whereabouts;Denji;Hybrid;Male;No one ever said that! And you're the reason why! Dumbass! Shitty liar!
+187;1;3;Meowy's Whereabouts;Power;Fiend;Female;Humans and your filthy lies! I only did as I was told!
+188;1;3;Meowy's Whereabouts;Denji;Hybrid;Male;Why the hell do you talk like that anyway?! It's so creepy!
+189;1;3;Meowy's Whereabouts;Makima;Devil;Female;Could you quiet down?
+190;1;3;Meowy's Whereabouts;Power;Fiend;Female;Y-Yes.
+191;1;3;Meowy's Whereabouts;Makima;Devil;Female;Very good, Power. Honestly, I don't really care who got in whose way. I want to see the two of you working well together. Can you show me that?
+192;1;3;Meowy's Whereabouts;Power;Fiend;Female;We... W-We can.
+193;1;3;Meowy's Whereabouts;Denji;Hybrid;Male;Maybe I should worry about copping a feel some other time. Y'know, being able to just grab a drink like this is a dream come true to me. But if we keep screwing up, being thirsty is probably gonna be the least of my problems. Not that it'll make it any easier to work with some chick that lies, though.
+194;1;3;Meowy's Whereabouts;Power;Fiend;Female;I only enjoy the company of cats. I hate humans. It's not a matter of personal grievance. My hatred is almost like a demonic instinct. And I hate devils, too. Since one of them took my pet Meowy away. Before I was able to recover Meowy, I fell into Makima's clutches. My dear Meowy may be dead already, and yet... I find it hard to give up hope. If it lets me retrieve Meowy from that demon, I'm willing to abide humans, or anything else I needs must. I doubt you'd understand such concern for a cat.
+195;1;3;Meowy's Whereabouts;Denji;Hybrid;Male;For a cat? That's dumb as hell. But I'd do whatever it takes to get to fondle some boobs.
+196;1;3;Meowy's Whereabouts;Power;Fiend;Female;It seems I may never understand humans.
+197;1;3;Meowy's Whereabouts;Denji;Hybrid;Male;But I think I'd get you if it was a dog.
+198;1;3;Meowy's Whereabouts;Power;Fiend;Female;What would you say to the prospect of fondling my chest after retrieving Meowy from that devil?
+199;1;3;Meowy's Whereabouts;Denji;Hybrid;Male;That fucking devil... thinks he can just kidnap some poor cat?! Well, I don't think so! As a Devil Hunter, I say no! I'm gonna kill the shit out of that devil!
+200;1;3;Meowy's Whereabouts;Public Safety Receptionist;Human;Male;Leave for the Fiend, Power, is approved. Make sure to have her back by 5:00 PM.
+201;1;3;Meowy's Whereabouts;Denji;Hybrid;Male;You're not even allowed to go out on your own?
+202;1;3;Meowy's Whereabouts;Power;Fiend;Female;Indeed. I've had to idly while away my time in here. I know where the devil that kidnapped Meowy dwells. The concern is that you are the only one who can fight it. He's likely to use Meowy as a shield upon seeing me. If that happens, then all is lost.
+203;1;3;Meowy's Whereabouts;Denji;Hybrid;Male;I had a pet devil named Pochita, y'know? I can't pet him anymore, but it's cool. Because he's alive in here.
+204;1;3;Meowy's Whereabouts;Power;Fiend;Female;How foolish you humans are. Does that not mean Pochita is dead? Death is the absence of life. This nonsense about living on in your heart is little more than miserable self-comfort.
+205;1;3;Meowy's Whereabouts;Denji;Hybrid;Male;Uh-huh. I guess so. I don't think I'm ever gonna get along with her.
+206;1;3;Meowy's Whereabouts;Public Safety Executive 1;Human;Male;The American matter has got the Soviet war hawks crowing more loudly than ever. There are rumors about the military use of devils, as well. Hopefully, devils will remain Japan's only enemies in the future.
+207;1;3;Meowy's Whereabouts;Public Safety Executive 2;Human;Male;Makima, how are the hunting dogs that have been added to the squad performing?
+208;1;3;Meowy's Whereabouts;Makima;Devil;Female;There's one that seems promising, and another that seems interesting.
+209;1;3;Meowy's Whereabouts;Public Safety Executive 2;Human;Male;Interesting...?
+210;1;3;Meowy's Whereabouts;Makima;Devil;Female;A pup that I just recently picked up.
+211;1;3;Meowy's Whereabouts;Public Safety Executive 2;Human;Male;Your job is to raise these hounds, and then put them to work. Make sure not to grow attached.
+212;1;3;Meowy's Whereabouts;Aki;Human;Male;As far as I can tell, Denji's disgusting, not "interesting." Why do you have such high hopes for him?
+213;1;3;Meowy's Whereabouts;Makima;Devil;Female;All devils are born with names. And the more those names are feared, the more powerful the devil is said to become. Coffee isn't considered very frightening, so a Coffee Devil would probably be weak. But what about a Car Devil? It's easy to imagine being run over and dying, so it would probably be strong. And Denji can turn into a Chainsaw Devil. Seems pretty interesting to me.
+214;1;3;Meowy's Whereabouts;Aki;Human;Male;He might be interesting, but I'm not sure he'll be any use. Everyone in Public Safety has a real goal or motivation. But he said he just wants to live the good life. He's a bad fit for our operation. Not only that, but he thinks he can be friends with devils. He's still a kid. A stupid brat.
+215;1;3;Meowy's Whereabouts;Power;Fiend;Female;That is the house! Meowy and the devil are in there.
+216;1;3;Meowy's Whereabouts;Denji;Hybrid;Male;Well, we better get going, then. Hope I don't have to chainsaw out. Losing all that blood's a drag.
+217;1;3;Meowy's Whereabouts;Power;Fiend;Female;Chainsaw?
+218;1;3;Meowy's Whereabouts;Denji;Hybrid;Male;Yeah. I can turn into a buncha chainsaws.
+219;1;3;Meowy's Whereabouts;Power;Fiend;Female;Human jokes leave much to be desired. What is it now?
+220;1;3;Meowy's Whereabouts;Denji;Hybrid;Male;Isn't he gonna use the cat as a hostage if he sees you? Should you even, like, be this close?
+221;1;3;Meowy's Whereabouts;Power;Fiend;Female;Oh, I did say that, didn't I?
+222;1;3;Meowy's Whereabouts;Denji;Hybrid;Male;You said...?
+223;1;3;Meowy's Whereabouts;Power;Fiend;Female;I misspoke. Fool that you are, it seems your instincts are sharp.
+224;1;3;Meowy's Whereabouts;Bat Devil;Devil;Devil;You kept me waiting a long time, Blood Devil. I thought you had run away.
+225;1;3;Meowy's Whereabouts;Power;Fiend;Female;Spare me your complaints! It took me this long to gain some freedom. And I've brought a human just as you demanded, Bat!
+226;1;3;Meowy's Whereabouts;Bat Devil;Devil;Devil;My first meal in ages... A young man? I'm sure his blood will be full of vigor. Look at my arm, human. The wound that your kind gave me! The damnable wound that forced me into hiding!
+227;1;3;Meowy's Whereabouts;Denji;Hybrid;Male;Like I give a shit. Dumbass.
+228;1;3;Meowy's Whereabouts;Bat Devil;Devil;Devil;Food shouldn't speak! Time to heal the wounds humans gave me with human blood! Disgusting! I've been revived with awful-tasting blood! The inside of my mouth tastes disgusting... I need to cleanse my palate with another human now!
+229;1;3;Meowy's Whereabouts;Aki;Human;Male;What are you trying to do? Make friends with them?
+230;1;3;Meowy's Whereabouts;Power;Fiend;Female;I'm amazed you actually believed my story. Humans truly are foolish.
+231;1;3;Meowy's Whereabouts;Bat Devil;Devil;Devil;The stench of cigarettes... The scent of makeup and drugs...
+232;1;3;Meowy's Whereabouts;Girl 1;Human;Female;Are you serious?
+233;1;3;Meowy's Whereabouts;Girl 2;Human;Female;Wow!
+234;1;3;Meowy's Whereabouts;Bat Devil;Devil;Devil;There's a decent aroma. I'll cleanse my palate with some children.
+235;1;3;Meowy's Whereabouts;Power;Fiend;Female;Bat Devil!
+236;1;3;Meowy's Whereabouts;Bat Devil;Devil;Devil;I brought you a human, as promised! Release Meowy. Oh, I did say I'd do that, didn't I?
+237;1;3;Meowy's Whereabouts;Power;Fiend;Female;Meowy!
+238;1;3;Meowy's Whereabouts;Bat Devil;Devil;Devil;But I hadn't punished you for bringing me such nasty blood yet, had I?
+239;1;3;Meowy's Whereabouts;Power;Fiend;Female;Meowy...? Meowy! Your name shall be Meowy! You smell tasty, for a cat. So spindly, though. Let's put some meat on those bones before I feast. Grow big and strong, now. I'm looking forward to killing you, Meowy. I've killed all who've met my eyes. It's become strange to hear a voice that isn't screaming. So strange...
+240;1;3;Meowy's Whereabouts;Bat Devil;Devil;Devil;Blood Devil... I need blood. If you want to save this cat, then bring me a human.
+241;1;3;Meowy's Whereabouts;Power;Fiend;Female;You said you couldn't pet Pochita anymore, yes? I understand how you feel now. 'Tis an awful feeling.
+242;1;3;Meowy's Whereabouts;Bat Devil;Devil;Devil;Nasty! All of this repulsive blood! The inside of my mouth feels filthy! I need to gargle with the blood of children! After I gargle, a virgin should make a fine appetizer. Then a beefy man for a main course... And a pregnant woman for dessert.
+243;1;3;Meowy's Whereabouts;Denji;Hybrid;Male;Gimme my tits back!
+244;1;3;Meowy's Whereabouts;Bat Devil;Devil;Devil;You're drinking my blood?! That's disgusting! I don't even feel like drinking your blood!
+245;1;3;Meowy's Whereabouts;Denji;Hybrid;Male;There was a time I couldn't find Pochita. He was gone when I woke up in the morning... So I looked all over town, but couldn't find him. I thought a devil might've eaten him, but when I got home, he was crying, waiting for me. I remember being so relieved, I fell asleep holding him. I wonder how she felt when she tried to sleep, knowing that devil had Meowy.
+246;1;3;Meowy's Whereabouts;Bat Devil;Devil;Devil;You're a devil?!
+247;1;3;Meowy's Whereabouts;Denji;Hybrid;Male;Hey, dumbass! You wanna get eaten?!
+248;1;3;Meowy's Whereabouts;Bat Devil;Devil;Devil;You let her escape? You're a devil! What do you think you're doing?!
+249;1;3;Meowy's Whereabouts;Denji;Hybrid;Male;Think I'm gonna split open your guts... And then cop me a feel! Get out of here already!
+250;1;3;Meowy's Whereabouts;Bat Devil;Devil;Devil;If you're so set on saving humans... Can you cut through this?!
+251;1;3;Meowy's Whereabouts;Denji;Hybrid;Male;The chainsaws retract?!
+252;1;3;Meowy's Whereabouts;Bat Devil;Devil;Devil;Such brute strength in that tiny body! Why would you use that power to save a human?!
+253;1;3;Meowy's Whereabouts;Denji;Hybrid;Male;You think I saved him?
+254;1;3;Meowy's Whereabouts;Denji;Hybrid;Male;I don't give a shit... about saving some dude!
+255;1;3;Meowy's Whereabouts;Bat Devil;Devil;Devil;I need to heal now. Your blood reeks of cigarettes, but it should do, for now. How are you still alive?!
+256;1;3;Meowy's Whereabouts;Denji;Hybrid;Male;Through all of this crap... I've been about as patient as possible. So how come I haven't... gotten to cop a single damn feel yet?!
+257;1;4;Rescue;Bat Devil;Devil;Devil;If you want to save this cat, then bring me a human.
+258;1;4;Rescue;Power;Fiend;Female;One life is worth as little as any other. And this is only a cat. So why do I run? Why do I search for a human? Is it to save Meowy? Such a foolish reason. I love blood. The taste, the smell, the sense of mortality... And then... there is something I only recently realized: The blood is warm... And feels pleasant. Why did you save me? I attempted to kill you. Such a foolish reason. Forgive my deceit. Since Meowy is safe... You may fondle my chest.
+259;1;4;Rescue;Denji;Hybrid;Male;Hell yeah! Holy shit! Ow! That hurts! Can you move?
+260;1;4;Rescue;Power;Fiend;Female;Not even a finger. Take Meowy and flee, please.
+261;1;4;Rescue;Denji;Hybrid;Male;Damn it, not enough chainsaw... I must be low on blood.
+262;1;4;Rescue;Leech Devil;Devil;Devil;And after I finally found him... It's you, right? The one who killed Batty. He was my man, y'know?! Oh... but you're actually pretty cute yourself. You're my type, so I'll let you go!
+263;1;4;Rescue;Denji;Hybrid;Male;What about them?
+264;1;4;Rescue;Leech Devil;Devil;Devil;They die. Then you can die, too.
+265;1;4;Rescue;Power;Fiend;Female;He can fight so fiercely... To merely fondle a chest?
+266;1;4;Rescue;Leech Devil;Devil;Devil;Is this a joke? How'd a little pupper like you kill my Batty? Y'know, he and I shared a dream: killing and eating all of humanity. A pipe dream, but a noble one, and a romantic one. And now this little yipping dog has ruined it. You're cute enough that I regret it... But you still need to die.
+267;1;4;Rescue;Denji;Hybrid;Male;I'm not dying before I cop a feel.
+268;1;4;Rescue;Leech Devil;Devil;Devil;That is ridiculous! To think he was killed by someone with such a trashy dream. Alas, poor Batty...
+269;1;4;Rescue;Power;Fiend;Female;Such a foolish reason.
+270;1;4;Rescue;Aki;Human;Male;Everyone is serious about this except you.
+271;1;4;Rescue;Denji;Hybrid;Male;Everybody wants to trash-talk my plans... It's revenge this, protect my family that, and save a cat, too! Blah, blah, blah! I guess your fancy dreams make you guys hot shit, huh?! How about we have us a dream battle, then?! How about that?! If I murderize you, that means your dream's weaker than fondling a tit!
+272;1;4;Rescue;Leech Devil;Devil;Devil;Even your howls are cute! But y'know what they say about little dogs barking! Yap, yap, yap! Okay! I'll gobble you up, then!
+273;1;4;Rescue;Denji;Hybrid;Male;Go ahead... If you can beat me in the dream battle!
+274;1;4;Rescue;Power;Fiend;Female;Demoniacal...
+275;1;4;Rescue;Leech Devil;Devil;Devil;Time to eat...
+276;1;4;Rescue;Aki;Human;Male;Kon.
+277;1;4;Rescue;Leech Devil;Devil;Devil;Huh... Huh?
+278;1;4;Rescue;Fox Devil;Devil;Devil;Looks like she's the Leech Devil. May I swallow?
+279;1;4;Rescue;Aki;Human;Male;Do it. The Leech Devil's extermination is confirmed. I want the rookies handling search and rescue, plus assisting with the evac.
+280;1;4;Rescue;Hirokazu Arai;Human;Male;Yes, sir!
+281;1;4;Rescue;Kobeni;Human;Female;Okay!
+282;1;4;Rescue;Aki;Human;Male;Himeno, you've got seniority, so keep watch for more devils.
+283;1;4;Rescue;Himeno;Human;Female;On it.
+284;1;4;Rescue;Denji;Hybrid;Male;Dream battle... Gonna... My dream battle...
+285;1;4;Rescue;Aki;Human;Male;You and the Blood Fiend need to be debriefed.
+286;1;4;Rescue;Power;Fiend;Female;And Meowy?
+287;1;4;Rescue;Aki;Human;Male;Have the cat sent to a veterinarian for a thorough checkup. I found your arm. A blood infusion was all it needed to reattach. You really are like a devil.
+288;1;4;Rescue;Denji;Hybrid;Male;You seemed pretty friendly with that devil back there. I saw.
+289;1;4;Rescue;Aki;Human;Male;You really don't know a thing, huh? Devil Hunters form contracts with devils in order to fight against them. I've got a contract with the Fox Devil. In exchange for power, I offer up a bit of my body as food. It was some skin this time.
+290;1;4;Rescue;Denji;Hybrid;Male;Sounds painful.
+291;1;4;Rescue;Aki;Human;Male;Devils yearn for the deaths of humans. The same goes for Fiends.
+292;1;4;Rescue;Denji;Hybrid;Male;Power seems cool, though.
+293;1;4;Rescue;Aki;Human;Male;The surveillance cameras caught you two headed to your patrol area.
+294;1;4;Rescue;Aki;Human;Male;And the house that we believe was housing the Bat Devil contained a lot of your spilt blood. The Blood Fiend tried to kill you, didn't she? I don't know why, but you're trying to protect a devil. Again.
+295;1;4;Rescue;Denji;Hybrid;Male;I dunno... is that how it happened?
+296;1;4;Rescue;Father;Human;Male;My daughter would like to meet the chainsaw guy.
+297;1;4;Rescue;Daughter;Human;Female;Thank you.
+298;1;4;Rescue;Office Lady;Human;Female;The devil threatened to eat me back at the office, but now that I think about it, he was wearing a Public Safety uniform. I'd like to thank him.
+299;1;4;Rescue;Man in car;Human;Male;Don't give a shit about saving some dude," he says! And then the devil throws my car with me in it! It was a devil with a chainsaw coming out of its head...
+300;1;4;Rescue;Aki;Human;Male;If I dig deeper into this, and report it to the higher-ups, it'd mean the Blood Fiend gets disposed of along with you, since you covered for her. But there were no fatalities. So, if you're willing to accept one condition, I'll let what happened slide. You need to do what I tell you to. You're a dumbass and a brat with no clue about right and wrong. I've been doing this longer, so I'm pretty sure I have some grasp of social ethics. All you need to do to protect this lifestyle is listen to me. How about it? If you follow, I want an answer.
+301;1;4;Rescue;Denji;Hybrid;Male;Sure. I'll keep it in mind. You can relax. I might not be after some big-deal goal like you guys, and I might dream small. But I'm as serious about this as you are. You can count on me.
+302;1;4;Rescue;Aki;Human;Male;Try and learn some manners in the meantime.
+303;1;4;Rescue;Denji;Hybrid;Male;Yeah, I'll think about it.
+304;1;4;Rescue;Power;Fiend;Female;You see? Am I not innocent? Now, would you kindly take these off?
+305;1;4;Rescue;Himeno;Human;Female;Is this a good idea? When this cutie-Fiend kills somebody, it's gonna be your responsibility, for letting her live.
+306;1;4;Rescue;Aki;Human;Male;We're Devil Hunters. Whether they're devils or Fiends, if they're handy, we should put them to work. But they're still the enemy. We're just making use of them. We're not making friends.
+307;1;4;Rescue;Makima;Devil;Female;Come in.
+308;1;4;Rescue;Aki;Human;Male;Excuse me. And he claims they "were outside the patrol zone before they knew it," and that they discovered a house that looked like it had a super-nasty devil in it, which is where they encountered the Bat Devil. Denji used his chainsaws to exterminate the Bat Devil, and then came under attack by the Leech Devil... Which Division 4 exterminated. There were no traces of Gun flesh in either the Bat or Leech Devil's heads. That concludes my report.
+309;1;4;Rescue;Makima;Devil;Female;Well done. But Denji and Power managed to get awfully far without anyone noticing, didn't they?
+310;1;4;Rescue;Aki;Human;Male;I'd chalk that up to them being unbelievably stupid.
+311;1;4;Rescue;Makima;Devil;Female;Leaving the approved area is against regulations.
+312;1;4;Rescue;Aki;Human;Male;Considering there were no fatalities, and that we were able to get rid of two devils, I think it's worth overlooking.
+313;1;4;Rescue;Makima;Devil;Female;Understood.
+314;1;4;Rescue;Aki;Human;Male;If you'll excuse me, ma'am.
+315;1;4;Rescue;Makima;Devil;Female;You seem a little more flexible now, Hayakawa. Is that Denji's influence, I wonder?
+316;1;4;Rescue;Aki;Human;Male;I doubt it. I haven't changed at all.
+317;1;4;Rescue;Denji;Hybrid;Male;How's he up so early? What's for lunch?
+318;1;4;Rescue;Aki;Human;Male;Curry.
+319;1;4;Rescue;Denji;Hybrid;Male;Sweet! The hell's this? A devil?
+320;1;4;Rescue;Power;Fiend;Female;What a pitiful home this is!
+321;1;4;Rescue;Makima;Devil;Female;I'd like you to put Power up
+322;1;4;Rescue;Power;Fiend;Female;in one of your rooms, Hayakawa. I think you'll make a good leash for the two of them. Stop right there, Meowy!
+323;1;4;Rescue;Aki;Human;Male;Is there some reason why you're sending me all these psychos, ma'am?
+324;1;4;Rescue;Power;Fiend;Female;It seems you've got quite a feast!
+325;1;4;Rescue;Makima;Devil;Female;It's because I trust you more than anyone else.
+326;1;4;Rescue;Denji;Hybrid;Male;Damn it, who said you could come in?!
+327;1;4;Rescue;Power;Fiend;Female;'Tis mine now!
+328;1;4;Rescue;Denji;Hybrid;Male;Gimme my super toast back!
+329;1;4;Rescue;Aki;Human;Male;Oh... okay.
+330;1;4;Rescue;Makima;Devil;Female;It'd be a little odd to have her staying at the office indefinitely. Okay. You don't need to worry. Power said she would behave. It'll be fine.
+331;1;4;Rescue;Power;Fiend;Female;Vegetables are revolting! Away!
+332;1;4;Rescue;Denji;Hybrid;Male;Carrot!
+333;1;4;Rescue;Aki;Human;Male;Don't fling your vegetables!
+334;1;4;Rescue;Denji;Hybrid;Male;Damn it... Show some respect to the farmers who grew the veggies, devil!
+335;1;4;Rescue;Power;Fiend;Female;The toilet? I prefer to only occasionally flush my feces.
+336;1;4;Rescue;Aki;Human;Male;Flush it!
+337;1;4;Rescue;Denji;Hybrid;Male;It stinks.
+338;1;4;Rescue;Power;Fiend;Female;I prefer to only occasionally bathe.
+339;1;4;Rescue;Aki;Human;Male;Get in there!
+340;1;4;Rescue;Denji;Hybrid;Male;You reek!
+341;1;4;Rescue;Power;Fiend;Female;You two are absurd. How delicate these humans be. Aren't they, Meowy?
+342;1;4;Rescue;Denji;Hybrid;Male;Can't believe she just shows up and starts raising hell. Do devils not flush the toilet? Didn't eat her veggies either.
+343;1;4;Rescue;Power;Fiend;Female;You there...
+344;1;4;Rescue;Denji;Hybrid;Male;Hey, Shit Devil! Your turds are stuck to the damn toilet and won't come off!
+345;1;4;Rescue;Power;Fiend;Female;We had a deal, did we not? You may fondle my chest. So, fondle! Come now, what's the matter? Aren't you pleased? Commence your fondling. I have stipulations, however. You have earned three squeezes of my breast.
+346;1;4;Rescue;Denji;Hybrid;Male;Three?
+347;1;4;Rescue;Power;Fiend;Female;One for your rescue of Meowy. A second for slaying the Bat Devil. And a third for protecting me from topknot! I had no intention of actually letting you, but your efforts have earned you these three squeezes. Squeeze them gratefully.
+348;1;4;Rescue;Denji;Hybrid;Male;She's an angel!
+349;1;5;Gun Devil;Power;Fiend;Female;It feels so good!
+350;1;5;Gun Devil;Denji;Hybrid;Male;What the...?
+351;1;5;Gun Devil;Power;Fiend;Female;Breast pads. A wondrous invention that makes your bosom look bigger. Now! Two squeezes remain. And now! The final fondling! There, done! All done! What did you think? Was it not fantastic? How lucky for you, to grasp such splendorous things! And now we are even! With Meowy saved, I have no real reason to hunt devils any longer,
+352;1;5;Gun Devil;Denji;Hybrid;Male;There's lots of stuff I could say, but... Huh?
+353;1;5;Gun Devil;Power;Fiend;Female;yet there's no escaping Makima! So I will aid you all with your duty! I'm sure the pleasure is all yours! Meowy! Off to bed we go!
+354;1;5;Gun Devil;Denji;Hybrid;Male;That's it?
+355;1;5;Gun Devil;Power;Fiend;Female;This is good! Seconds would be splendid! I'll eat yours, if you won't have it!
+356;1;5;Gun Devil;Aki;Human;Male;You little...!
+357;1;5;Gun Devil;Power;Fiend;Female;Where shall we slaughter devils today? Hey. Hey! Hey! Chop!
+358;1;5;Gun Devil;Makima;Devil;Female;This is the form apology for the damage to the buildings. This is for verifying the disposal of the devils' bodies. Then there's this, from the Ministry of Land, Infrastructure, Transport and Tourism. You'll need to stamp it, here and here. I hate making you do all this paperwork. It's almost like killing the Bat Devil was a bad thing. Is something bothering you, Denji?
+359;1;5;Gun Devil;Denji;Hybrid;Male;Y'know, I... There's something I was chasing after, and I finally managed to get it. But once I did, it wasn't... as big of a deal as I thought. Now I'm wondering, if I go after something else, and get my hands on it, am I just gonna think I was happier during the chase? That's, like... total bullshit, isn't it?
+360;1;5;Gun Devil;Makima;Devil;Female;What exactly are you talking about, Denji?
+361;1;5;Gun Devil;Denji;Hybrid;Male;I touched boobs for the first time, but it wasn't that great.
+362;1;5;Gun Devil;Makima;Devil;Female;Denji... I believe that, when it comes to sex, the better you understand the other person, the better it feels. But it's hard to understand how someone else feels. So, start with observing the hand, carefully. How long are their fingers? Are their palms cold? Are they warm? What's the shape of their ears? Ever had your finger bitten?
+363;1;5;Gun Devil;Denji;Hybrid;Male;B-Bit...?
+364;1;5;Gun Devil;Makima;Devil;Female;Remember this. So that even if you can't see, you'll be able to tell it's me, from how hard I'm biting. Memorize it.
+365;1;5;Gun Devil;Denji;Hybrid;Male;I... got it.
+366;1;5;Gun Devil;Makima;Devil;Female;Denji... I'd like to ask you to do something for me. Can I?
+367;1;5;Gun Devil;Denji;Hybrid;Male;Yeah.
+368;1;5;Gun Devil;Makima;Devil;Female;I want you to beat the Gun Devil.
+369;1;5;Gun Devil;Denji;Hybrid;Male;Gun Devil?
+370;1;5;Gun Devil;Makima;Devil;Female;It appeared in America 13 years ago, but nobody knows where it is now. It's a very strong devil that all hunters want to kill. But I happen to think that you can kill it. Because you're not like any of the other Devil Hunters. And if you're able to kill the Gun Devil, I'll make any wish of yours come true.
+371;1;5;Gun Devil;Denji;Hybrid;Male;You're saying if your Denji kills the Gun Devil, Miss Makima's gonna make any wish of his come true? So... like, I mean... You're saying if your Denji kills the Gun Devil, Miss Makima's gonna make any wish of his come true? Anything, like... even se—
+372;1;5;Gun Devil;Makima;Devil;Female;I said anything, Denji.
+373;1;5;Gun Devil;Denji;Hybrid;Male;Holy shit! Is that even allowed?!
+374;1;5;Gun Devil;Makima;Devil;Female;It's only allowed because this devil is so strong and bad, mind you. People were trying to profit off of guns as a counter-measure against devils across the world, which resulted in an increase in crime and conflict. The news focused on it non-stop for a while, with people more afraid of gun violence than ever. Then a major armed terrorist attack happened in America. That was the day the Gun Devil appeared. This is where I live, said the city mouse. The Country Mouse and the City Mouse
+375;1;5;Gun Devil;Aki's Mom;Human;Female;And, oh what a big house it was! The city mouse's family—
+376;1;5;Gun Devil;Aki;Human;Male;Dad! Let's play catch outside.
+377;1;5;Gun Devil;Aki's Dad;Human;Male;Taiyo doesn't feel well. Find something you can play by yourself.
+378;1;5;Gun Devil;Aki;Human;Male;He never does. I don't remember him feeling good.
+379;1;5;Gun Devil;Aki's Mom;Human;Female;You're the older brother. Be good and play by yourself.
+380;1;5;Gun Devil;Taiyo;Human;Male;I... I wanna play with him.
+381;1;5;Gun Devil;Aki;Human;Male;Quit following me. You're so annoying... I said cut it out! I'm gonna play by myself.
+382;1;5;Gun Devil;Taiyo;Human;Male;Gotcha!
+383;1;5;Gun Devil;Aki;Human;Male;Stupid! I said cut it out!
+384;1;5;Gun Devil;Taiyo;Human;Male;It's cold...
+385;1;5;Gun Devil;Aki;Human;Male;If you catch a cold, I'm gonna get in trouble. Your hands won't get cold if we play catch, right? Go grab a glove from the house.
+386;1;5;Gun Devil;Taiyo;Human;Male;Yes!
+387;1;5;Gun Devil;Makima;Devil;Female;In a little under five minutes, 1.2 million people were killed. The Gun Devil hasn't been seen since. Fear of devils across the board increased as a result, making them all stronger than ever before. Gun control got a lot more severe in an attempt to weaken the Gun Devil... Along with increased censorship of the news.
+388;1;5;Gun Devil;Denji;Hybrid;Male;I'm not sure I understand, but... Let's say this thing's so strong, it's hard to understand.
+389;1;5;Gun Devil;Makima;Devil;Female;Do you think you can beat it, Denji?
+390;1;5;Gun Devil;Denji;Hybrid;Male;Well... I'd say... If I bust out all the stops, it'll be a peace of cake.
+391;1;5;Gun Devil;Makima;Devil;Female;In that case... First, we'll need to actually find the Gun Devil.
+392;1;5;Gun Devil;Denji;Hybrid;Male;How exactly are we gonna do that, anyway?
+393;1;5;Gun Devil;Makima;Devil;Female;These are pieces of the Gun Devil that we've collected. It's so fast, pieces of it are torn off just from moving. If a devil eats some of this, no matter what their nature, they become more powerful. See how they stick together? Because of how powerful the Gun Devil is, once the chunks of flesh reach a certain size, they start to be attracted to the original body. So if we can make this piece bigger, it'll lead us to the Gun Devil.
+394;1;5;Gun Devil;Aki;Human;Male;Got one.
+395;1;5;Gun Devil;Himeno;Human;Female;So it really was snacking on a piece of the Gun. Explains how such a wimpy devil got so strong. But did it find that piece, or did someone serve it up?
+396;1;5;Gun Devil;Aki;Human;Male;Doesn't change what our job is. We keep killing devils, and eventually, we'll find him.
+397;1;5;Gun Devil;Makima;Devil;Female;Public Safety's received a request for devil extermination. A devil has been spotted inside of a hotel. No confirmation on the status of the hotel's guests. Several of the civilian devil hunters who initially went in have been found dead. It's believed the target has consumed a piece of the Gun Devil. We're sending six agents from Public Safety Devil Extermination Special Division 4.
+398;1;5;Gun Devil;Aki;Human;Male;It's hiding somewhere in this hotel. And this is no ordinary devil. It's eaten a piece of the Gun Devil's flesh.
+399;1;5;Gun Devil;Denji;Hybrid;Male;Maybe it's the Gun Devil for real?
+400;1;5;Gun Devil;Aki;Human;Male;The more flesh, the stronger the attraction. The reaction's not big enough.
+401;1;5;Gun Devil;Denji;Hybrid;Male;Huh, guess not.
+402;1;5;Gun Devil;Power;Fiend;Female;How amusing... Give that thing to me!
+403;1;5;Gun Devil;Aki;Human;Male;I thought I told you two to work on your manners.
+404;1;5;Gun Devil;Denji;Hybrid;Male;Who the hell's gonna suck up to you for no reason?
+405;1;5;Gun Devil;Power;Fiend;Female;How foolish and conceited these humans be!
+406;1;5;Gun Devil;Denji;Hybrid;Male;Mr. Hayakawa.
+407;1;5;Gun Devil;Power;Fiend;Female;Sir.
+408;1;5;Gun Devil;Aki;Human;Male;Good.
+409;1;5;Gun Devil;Denji;Hybrid;Male;Sweet! Dude, he's so easy.
+410;1;5;Gun Devil;Hirokazu Arai;Human;Male;Hayakawa! Considering we're about to fight some devils... Can we really trust these two to watch our backs? One's a Fiend, and the other is some punk... I'm not sure about this.
+411;1;5;Gun Devil;Aki;Human;Male;We can't let them watch our backs. On extermination missions, they'll be taking point. If they try to run or switch sides, we kill them.
+412;1;5;Gun Devil;Power;Fiend;Female;You're treating us like livestock!
+413;1;5;Gun Devil;Aki;Human;Male;You two don't get rights.
+414;1;5;Gun Devil;Denji;Hybrid;Male;He's super pissed. Must be from this morning.
+415;1;5;Gun Devil;Power;Fiend;Female;Perhaps our prank went too far?
+416;1;5;Gun Devil;Aki;Human;Male;You call that a prank?! I could kill you!
+417;1;5;Gun Devil;Himeno;Human;Female;Yikes! What happened? Aki, you can't just be harsh all the time, y'know?
+418;1;5;Gun Devil;Denji;Hybrid;Male;She's right! The bat almost killed me, and now there's more work?! I want a reward!
+419;1;5;Gun Devil;Himeno;Human;Female;Got it! I'll take one for the team. Whoever kills this devil will win... a kiss on the cheek from yours truly!
+420;1;5;Gun Devil;Hirokazu Arai;Human;Male;That's... You shouldn't do that! A young woman who's not married shouldn't be so... indecent!
+421;1;5;Gun Devil;Himeno;Human;Female;But doesn't a reward help with motivation? Right?
+422;1;5;Gun Devil;Denji;Hybrid;Male;I'm not gonna sweat the kisses. Don't worry about it. I'm plenty motivated.
+423;1;5;Gun Devil;Himeno;Human;Female;Oh?
+424;1;5;Gun Devil;Denji;Hybrid;Male;I got my sights set on someone for a first kiss already. I'm gonna find all these meat chunks or whatever for her. So, until the Gun Devil's dead, no smooching for me.
+425;1;5;Gun Devil;Himeno;Human;Female;That's a hell of a thing to say in front of Aki!
+426;1;5;Gun Devil;Denji;Hybrid;Male;Besides, I learned something real important. Sex stuff feels better when it's two people who get each other. I don't even know your name, so I ain't after your lips!
+427;1;5;Gun Devil;Himeno;Human;Female;Then, if you kill the devil, Denji... I'll give you a kiss... with tongue.
+428;1;5;Gun Devil;Hirokazu Arai;Human;Male;Hey, hold it! It's dangerous to run off solo! Stop!
+429;1;5;Gun Devil;Himeno;Human;Female;Damn, I love teasing boys!
+430;1;5;Gun Devil;Kobeni;Human;Female;Oh man, what are we gonna do?
+431;1;5;Gun Devil;Power;Fiend;Female;I yearn for blood.
+432;1;5;Gun Devil;Hirokazu Arai;Human;Male;It's dangerous! You need to stop! Himeno's been nice enough to train me for the last six months! If the alternative is letting some thug like you kiss her... Then I'll take that kiss on the cheek!
+433;1;5;Gun Devil;Denji;Hybrid;Male;Move! I don't want some dude all over me! It's nasty!
+434;1;5;Gun Devil;Hirokazu Arai;Human;Male;Say what?!
+435;1;5;Gun Devil;Denji;Hybrid;Male;Die! I'm after a way bigger goal than you, dude!
+436;1;5;Gun Devil;Power;Fiend;Female;I wish to join you!
+437;1;5;Gun Devil;Hirokazu Arai;Human;Male;Shut up! I don't wanna hear that from someone newer than me!
+438;1;5;Gun Devil;Aki;Human;Male;What's your take on the rookies, Himeno?
+439;1;5;Gun Devil;Denji;Hybrid;Male;Man, shut up!
+440;1;5;Gun Devil;Power;Fiend;Female;More of this! Yes!
+441;1;5;Gun Devil;Himeno;Human;Female;I'd say Arai's not super competent, but makes up for it in motivation.
+442;1;5;Gun Devil;Power;Fiend;Female;Get him, get him!
+443;1;5;Gun Devil;Himeno;Human;Female;Meanwhile, Kobeni's got the moves, but she's really timid. You think any of the four rookies have a shot of surviving, Aki?
+444;1;5;Gun Devil;Power;Fiend;Female;It's a duel to the death!
+445;1;5;Gun Devil;Hirokazu Arai;Human;Male;You get the picture, now?
+446;1;5;Gun Devil;Aki;Human;Male;Most people either die or go private after a year, regardless of how strong I thought they were.
+447;1;5;Gun Devil;Hirokazu Arai;Human;Male;You are not kissing Himeno!
+448;1;5;Gun Devil;Denji;Hybrid;Male;Asshole... I'm gonna kill you!
+449;1;5;Gun Devil;Himeno;Human;Female;That's not really an answer.
+450;1;5;Gun Devil;Denji;Hybrid;Male;Power... you're dead, too! You too, shorty.
+451;1;5;Gun Devil;Himeno;Human;Female;Don't die on me, Aki.
+452;1;5;Gun Devil;Kobeni;Human;Female;But why?!
+453;1;5;Gun Devil;Kishibe;Human;Male;Himeno... This is your new partner. He's rude, but I trained him to be of some use. Try and get along.
+454;1;5;Gun Devil;Aki;Human;Male;I'm Aki. Nice to meet you.
+455;1;5;Gun Devil;Himeno;Human;Female;Are you gonna be any help?
+456;1;5;Gun Devil;Aki;Human;Male;Well... I think so.
+457;1;5;Gun Devil;Himeno;Human;Female;You're gonna be my sixth partner. The others all died. They all died because they were useless.
+458;1;5;Gun Devil;Aki;Human;Male;Don't die on me, Aki.
+459;1;5;Gun Devil;Denji;Hybrid;Male;Gotta say, I'm not seeing any devils around here. Does that meat chunk of yours even work? So tired...
+460;1;5;Gun Devil;Himeno;Human;Female;Aki... Incoming. Got it.
+461;1;5;Gun Devil;Denji;Hybrid;Male;It floats?!
+462;1;5;Gun Devil;Power;Fiend;Female;The battle is joined! Damnable devil! Did you see how it floated in fear of me?!
+463;1;5;Gun Devil;Himeno;Human;Female;No, no, that's my power.
+464;1;5;Gun Devil;Power;Fiend;Female;Say what?
+465;1;5;Gun Devil;Himeno;Human;Female;I've got a contract with the Ghost Devil. I served up my right eye in exchange for being able to use a ghost's right hand. My ghost hand's invisible and strong. Pretty slick, right? How about it, Aki? Has he got any of the Gun's flesh?
+466;1;5;Gun Devil;Aki;Human;Male;No strong reaction. This isn't the one.
+467;1;5;Gun Devil;Himeno;Human;Female;I see... guess we better keep heading up.
+468;1;5;Gun Devil;Power;Fiend;Female;Is it wise to blather on about your powers in my presence? Are you people not meant to hold my reins?
+469;1;5;Gun Devil;Himeno;Human;Female;Knowing about our powers makes for better teamwork, right? Besides, I've got a few tricks up my sleeve, so I'm not worried.
+470;1;5;Gun Devil;Power;Fiend;Female;Truly? So what would you do if I said I was going to kill this one?
+471;1;5;Gun Devil;Himeno;Human;Female;Put the weapon away. If you misbehave, I can always choke you to death.
+472;1;5;Gun Devil;Power;Fiend;Female;Can't... touch it...
+473;1;5;Gun Devil;Himeno;Human;Female;I'd prefer if we got along. It's easier!
+474;1;5;Gun Devil;Power;Fiend;Female;I will devour you in time!
+475;1;5;Gun Devil;Denji;Hybrid;Male;You better not. I'm trying to get a kiss.
+476;1;5;Gun Devil;Hirokazu Arai;Human;Male;Do you guys not get that the devil is still around? Can't you pipe... Huh?
+477;1;5;Gun Devil;Power;Fiend;Female;She does look like she'd be unpleasant raw.
+478;1;5;Gun Devil;Aki;Human;Male;What is it?
+479;1;5;Gun Devil;Denji;Hybrid;Male;That sounds pervy, dude.
+480;1;5;Gun Devil;Hirokazu Arai;Human;Male;We were... on our way to the 9th floor from the 8th, right?
+481;1;5;Gun Devil;Power;Fiend;Female;Perhaps boiling or frying...
+482;1;5;Gun Devil;Denji;Hybrid;Male;Cook your own ass, stupid.
+483;1;5;Gun Devil;Aki;Human;Male;Yeah.
+484;1;5;Gun Devil;Hirokazu Arai;Human;Male;But this is the 8th floor.
+485;1;5;Gun Devil;Denji;Hybrid;Male;You probably read it wrong.
+486;1;5;Gun Devil;Hirokazu Arai;Human;Male;It's not that! Something's going on here! I'm gonna double check.
+487;1;5;Gun Devil;Power;Fiend;Female;I know! Grilled like a steak!
+488;1;5;Gun Devil;Denji;Hybrid;Male;Steak?! I wanna try steak!
+489;1;5;Gun Devil;Hirokazu Arai;Human;Male;Huh?
+490;1;5;Gun Devil;Himeno;Human;Female;Arai... just now... you were going downstairs, right?
+491;1;6;Kill Denji;Hirokazu Arai;Human;Male;Huh?
+492;1;6;Kill Denji;Himeno;Human;Female;Arai... just now... you were going downstairs, right? Kobeni, make a double peace sign and stay put. Well, shit. Aki... what's going on here?
+493;1;6;Kill Denji;Aki;Human;Male;It has to be a devil's power at work. Kobeni, stand right there. Why are there rooms on the other side of the window?
+494;1;6;Kill Denji;Denji;Hybrid;Male;Hey! None of the windows go anywhere! They just open to the room across the hall!
+495;1;6;Kill Denji;Aki;Human;Male;I figured as much. We're trapped on the eighth floor.
+496;1;6;Kill Denji;Aki;Human;Male;Let's run through what we know. This is probably a devil's doing, and no matter how many times we try to go to a different floor, we end up on the eighth again. The elevator is inoperable for whatever reason. There's no way outside via the rooms or any windows. We tried going through the ceiling, but ended up on the eighth floor again.
+497;1;6;Kill Denji;Denji;Hybrid;Male;Maybe it's because Power killed that devil? He coulda died while using the power to keep us trapped. And now—
+498;1;6;Kill Denji;Power;Fiend;Female;You commanded me to kill him!
+499;1;6;Kill Denji;Denji;Hybrid;Male;Did not!
+500;1;6;Kill Denji;Aki;Human;Male;A devil's powers are released when they die. It can't be that.
+501;1;6;Kill Denji;Himeno;Human;Female;Is the flesh piece reacting, Aki?
+502;1;6;Kill Denji;Aki;Human;Male;Actually... It's gone dead still.
+503;1;6;Kill Denji;Himeno;Human;Female;That devil before was bait, and we bit hard. I've never seen a devil try something so clever before.
+504;1;6;Kill Denji;Hirokazu Arai;Human;Male;But if no one hears from us for a while, won't other Devil Hunters show up to help?
+505;1;6;Kill Denji;Himeno;Human;Female;I guess we better hope they don't fall into the same kind of trap, then.
+506;1;6;Kill Denji;Kobeni;Human;Female;We're all gonna die here. We're gonna starve to death.
+507;1;6;Kill Denji;Hirokazu Arai;Human;Male;H-Hang in there, Kobeni! Didn't you become a Devil Hunter to send your brother to college?!
+508;1;6;Kill Denji;Kobeni;Human;Female;They basically forced me to do it. My parents are set on my older brother going to college, since he's the gifted one. So they made me get a job. It was become a Devil Hunter or a sex worker! I wanted to go to college, too! And now I'm gonna die here!
+509;1;6;Kill Denji;Power;Fiend;Female;Her face...!
+510;1;6;Kill Denji;Hirokazu Arai;Human;Male;Enough! Quit laughing!
+511;1;6;Kill Denji;Himeno;Human;Female;Kobeni, devils love fear, okay? If you get scared, you're giving them what they want, sweetie.
+512;1;6;Kill Denji;Kobeni;Human;Female;But I'm so scared!
+513;1;6;Kill Denji;Himeno;Human;Female;Something bothering you, too, Aki?
+514;1;6;Kill Denji;Aki;Human;Male;The clocks in this room... have been stuck at 8:18 for a while now. In every single room... it's 8:18. There's a chance that time has been frozen here on the eighth floor. And if that's the case, no one is coming.
+515;1;6;Kill Denji;Denji;Hybrid;Male;Oh, shit! Then we can sleep all we want, right?
+516;1;6;Kill Denji;Hirokazu Arai;Human;Male;How stupid are you? We might be trapped in here forever.
+517;1;6;Kill Denji;Denji;Hybrid;Male;I mean, we might be, but we might not be, too, y'know? Wake me when you figure it out. This bed is freaking sweet. It'd be stupid not to sleep in it. I owe the devil for this nap.
+518;1;6;Kill Denji;Hirokazu Arai;Human;Male;He's actually asleep...
+519;1;6;Kill Denji;Himeno;Human;Female;Denji. Rise and shine, Denji.
+520;1;6;Kill Denji;Denji;Hybrid;Male;We find a way off the eighth floor yet?
+521;1;6;Kill Denji;Himeno;Human;Female;Hate to break it to you, but not yet. We found out the power and electricity are still working while you were asleep. There was a little bit of food that some of the guests who ran must've left behind. I'll be honest, everyone's really worn out. Aki's been searching for the devil nonstop. I told him to take a break, but he won't listen. Arai was helping Aki at first, but now he's locked himself up in another room to have a panic attack. Kobeni freaked out and tried to drink toilet bowl water, so I knocked her out. And as for the Fiend...
+522;1;6;Kill Denji;Denji;Hybrid;Male;Something happen to Power?
+523;1;6;Kill Denji;Power;Fiend;Female;Given there's nothing else to do, I've decided to win the Nobel Prize! Once I've earned such glorious esteem, the humans will all kowtow to me! And with the Nobel Prize as my foothold, I shall ascend to the prime minister's throne! What better way to ensure human suffering? My first act will be passing a 100% sales tax!
+524;1;6;Kill Denji;Denji;Hybrid;Male;She's always like that.
+525;1;6;Kill Denji;Himeno;Human;Female;Huh. Okay, then. Let's take turns watching Kobeni and Arai. I couldn't even use the bathroom when it was just me. Well, this is my last cigarette.
+526;1;6;Kill Denji;Power;Fiend;Female;I'm bored by how little this upsets you.
+527;1;6;Kill Denji;Himeno;Human;Female;I can take it easy because Aki's working hard. The nicotine also helps! Gotta have a port in a storm, right? Life is sweeter with a bit of dependence.
+528;1;6;Kill Denji;Denji;Hybrid;Male;Hey, that's the same brand he smokes.
+529;1;6;Kill Denji;Himeno;Human;Female;That's because Aki learned all about the flavor of cigarettes from yours truly! Not gonna smoke, Aki?
+530;1;6;Kill Denji;Aki;Human;Male;No. It's bad for your bones.
+531;1;6;Kill Denji;Himeno;Human;Female;You should start. It's great for socializing.
+532;1;6;Kill Denji;Aki;Human;Male;I'm not looking to make friends.
+533;1;6;Kill Denji;Himeno;Human;Female;Let me guess why you joined Public Safety. You're out to kill the Gun Devil, right? Everyone who signs up with a chip on their shoulder is the same... since only Public Safety is allowed to hold onto pieces of the Gun Devil's flesh. Devil Hunters die young anyway. Might as well smoke.
+534;1;6;Kill Denji;Aki;Human;Male;I don't plan on dying any time soon.
+535;1;6;Kill Denji;Himeno;Human;Female;I'll hold you to that. It's a pain in the ass when your partner dies.
+536;1;6;Kill Denji;Aki;Human;Male;What the hell was that?
+537;1;6;Kill Denji;Himeno;Human;Female;She was my old partner's girlfriend. It happens a lot. You get issues with the family and friends of dead partners. They can't do anything to get back at the devils, so they take it out on me. I just consider it something that comes with the territory. What was that about?
+538;1;6;Kill Denji;Aki;Human;Male;I put gum on the clothes of that girl who hit you. You shouldn't just sit back and take being treated like that. No need for you to feel guilty. I was pissed off. So I got some payback. Serves her right. She's gonna waltz around without realizing there's a wad of gum on her clothing.
+539;1;6;Kill Denji;Himeno;Human;Female;There's something my master said... Devils don't fear Devil Hunters who are strong or brave. They fear Devil Hunters who have a screw loose. Which is why I think you'll survive a long time in this job, Aki.
+540;1;6;Kill Denji;Aki;Human;Male;Was that an insult? And I'll eat your almond tofu if you don't want it.
+541;1;6;Kill Denji;Himeno;Human;Female;Just one.
+542;1;6;Kill Denji;Aki;Human;Male;I'm not smoking. It's bad for your bones.
+543;1;6;Kill Denji;Himeno;Human;Female;I wish you would. I get the feeling we're gonna be together for a while.
+544;1;6;Kill Denji;Aki;Human;Male;Just one, then. This is the first and last cigarette I ever light up. Himeno, do you have any smokes left?
+545;1;6;Kill Denji;Himeno;Human;Female;Sorry. Last one.
+546;1;6;Kill Denji;Aki;Human;Male;Let me have it, please.
+547;1;6;Kill Denji;Himeno;Human;Female;If you insist...
+548;1;6;Kill Denji;Denji;Hybrid;Male;Dude, that's kissing! No fair! That's an indirect kiss!
+549;1;6;Kill Denji;Aki;Human;Male;Shut up. I've got bad news. Remember the devil we killed?
+550;1;6;Kill Denji;Power;Fiend;Female;The one that I slew!
+551;1;6;Kill Denji;Aki;Human;Male;Well, he's a lot bigger now.
+552;1;6;Kill Denji;Power;Fiend;Female;That really is the one I slew.
+553;1;6;Kill Denji;Himeno;Human;Female;It traps us in a hotel... and its body turns into that? What the hell kind of devil is this?
+554;1;6;Kill Denji;Eternity Devil;Devil;Devil;Humans. Hear me, humans. You foolish humans. I offer you a contract...
+555;1;6;Kill Denji;Denji;Hybrid;Male;It talked!
+556;1;6;Kill Denji;Aki;Human;Male;A contract?
+557;1;6;Kill Denji;Eternity Devil;Devil;Devil;Feed me the human known as Denji. Even his corpse will do. Let me eat him. Do this, and I'll let the rest of you leave in peace. You'll be free to leave! Now, accept this contract! Do it... Do it....
+558;1;6;Kill Denji;Kobeni;Human;Female;Denji... let it eat you.
+559;1;6;Kill Denji;Himeno;Human;Female;Man, that's obnoxious. Aki, can't you swallow this thing with the Fox Devil?
+560;1;6;Kill Denji;Aki;Human;Male;Kon. Looks like Fox Devil isn't coming. We're cut off from the rest of the world.
+561;1;6;Kill Denji;Himeno;Human;Female;The Fox Devil's body is in Kyoto, so that makes sense. Let's see what my Ghost can do, then.
+562;1;6;Kill Denji;Eternity Devil;Devil;Devil;That hurt! It hurts! Oh, it hurts! The pain! It hurts...! It hurts!
+563;1;6;Kill Denji;Himeno;Human;Female;It got even bigger!
+564;1;6;Kill Denji;Eternity Devil;Devil;Devil;It's pointless! This isn't my main body... You won't find my heart here. You're inside of my stomach... and I have no weaknesses on this eighth floor. There is no way to survive this place, apart from accepting my offer.
+565;1;6;Kill Denji;Denji;Hybrid;Male;You're probably not gonna let them go, even if I do die.
+566;1;6;Kill Denji;Himeno;Human;Female;Actually, no. The devil used the word "contract," right? Those kinds of terms hold a strong sway when a devil is involved. If one side makes good on the deal, the other has to or else. Whichever side breaks the contract ends up dying. So, we would be able to leave by killing you, Denji.
+567;1;6;Kill Denji;Hirokazu Arai;Human;Male;Himeno... we should kill him. We can come up with another plan once he's dead, and we're out of here. We're all gonna end up starving otherwise. Devil Hunters are legally allowed to make contracts with devils. We should take the deal!
+568;1;6;Kill Denji;Aki;Human;Male;The devil wants Denji dead. That means his death would benefit it, which is why we're not accepting.
+569;1;6;Kill Denji;Himeno;Human;Female;I'm with him!
+570;1;6;Kill Denji;Hirokazu Arai;Human;Male;But...
+571;1;6;Kill Denji;Power;Fiend;Female;I say we kill him! My Nobel Prize will remain forever out of reach if I'm unable to leave this place! You must die for my Nobel.
+572;1;6;Kill Denji;Aki;Human;Male;Fiends can't make pacts with devils. It wouldn't be obligated to let us leave, even if you killed him. Look, we're not killing Denji. We're Devil Hunters. We only kill devils.
+573;1;6;Kill Denji;Power;Fiend;Female;Shall we wrestle to pass the time, then?
+574;1;6;Kill Denji;Denji;Hybrid;Male;You're just gonna try and kill me! Hell no! So hungry...
+575;1;6;Kill Denji;Himeno;Human;Female;Aki, have you got any kind of plan for actually getting us out of here?
+576;1;6;Kill Denji;Aki;Human;Male;If what the devil says is true, we can't kill it. But we're not killing Denji, either.
+577;1;6;Kill Denji;Himeno;Human;Female;So, is the plan to starve, then?
+578;1;6;Kill Denji;Aki;Human;Male;If we really run out of options, I'll use the sword.
+579;1;6;Kill Denji;Himeno;Human;Female;No, you won't.
+580;1;6;Kill Denji;Denji;Hybrid;Male;If that thing can get us out of here, shouldn't he use it?
+581;1;6;Kill Denji;Himeno;Human;Female;He shouldn't use it, even if we're out of options. If it comes to that... sorry, but you'll have to die, Denji!
+582;1;6;Kill Denji;Hirokazu Arai;Human;Male;It's gone?! It's gone... all the food that was left on the bed... None of it's left. Why? You ate all of it, didn't you?
+583;1;6;Kill Denji;Power;Fiend;Female;'Twas not me. This is Denji's doing.
+584;1;6;Kill Denji;Hirokazu Arai;Human;Male;Of all the obvious lies...
+585;1;6;Kill Denji;Kobeni;Human;Female;I get it now... I figured it out. We can't get out of here because of that Fiend's power! That has to be it!
+586;1;6;Kill Denji;Power;Fiend;Female;No, it doesn't.
+587;1;6;Kill Denji;Hirokazu Arai;Human;Male;Calm down, Kobeni! This is the Blood Fiend—
+588;1;6;Kill Denji;Kobeni;Human;Female;So you're taking her side? Even though we're Devil Hunters?! You're on the devil's side, Arai! You're a spy!
+589;1;6;Kill Denji;Power;Fiend;Female;He's spycy.
+590;1;6;Kill Denji;Hirokazu Arai;Human;Male;I... I'm not on the devil's side...
+591;1;6;Kill Denji;Kobeni;Human;Female;I know you're a spy!
+592;1;6;Kill Denji;Himeno;Human;Female;Was that a scream?
+593;1;6;Kill Denji;Aki;Human;Male;We need to move!
+594;1;6;Kill Denji;Eternity Devil;Devil;Devil;Kill Denji... Give me his heart... Give it! I will grow as your fear grows... and with your terror, I will capture you! So, fear me more! Be overcome by your impending death! Dread everything. I will be the one to kill Chainsaw... It will be me! The Eternity Devil!
+595;1;6;Kill Denji;Aki;Human;Male;The floor's tilting!
+596;1;6;Kill Denji;Eternity Devil;Devil;Devil;Give me Denji's heart!
+597;1;6;Kill Denji;Kobeni;Human;Female;Somebody, anybody, kill Denji! Please make him dead!
+598;1;6;Kill Denji;Hirokazu Arai;Human;Male;We're running out of time! Let's just feed him to the devil!
+599;1;6;Kill Denji;Aki;Human;Male;I'm using the sword. You okay with that, Himeno? Himeno?!
+600;1;6;Kill Denji;Denji;Hybrid;Male;Whoa, lady! What the hell?!
+601;1;6;Kill Denji;Himeno;Human;Female;We can probably get out of here if he uses that sword, but the pact is one that takes a lot of years off Aki's life in exchange. He's got too much to live for. I'm sorry, Denji.
+602;1;6;Kill Denji;Hirokazu Arai;Human;Male;Damn it!
+603;1;6;Kill Denji;Denji;Hybrid;Male;Hey, get off! Let me go!
+604;1;6;Kill Denji;Kobeni;Human;Female;Die!
+605;1;6;Kill Denji;Aki;Human;Male;He might be a piece of shit that deserves being stabbed a time or two... But he wants the Gun Devil dead. And I... can't kill it by myself. To do that, I need Devil Hunters with the guts to fight it. The more, the better... Even if it costs some of my own life... I'm not letting Denji die.
+606;1;6;Kill Denji;Denji;Hybrid;Male;Power! You're the Blood Fiend, right? Can you keep him from bleeding out?
+607;1;6;Kill Denji;Power;Fiend;Female;I only have total control over my own blood. The blood of others is a challenge. But I suppose I'd need a new cook if topknot died. Given that, I have little choice.
+608;1;6;Kill Denji;Himeno;Human;Female;What do we do? What do we do?! Aki... Aki! Aki, what do we do?!
+609;1;6;Kill Denji;Kobeni;Human;Female;I-It's not my fault! You! This is because of you! If you just let it eat you, this would all be over!
+610;1;6;Kill Denji;Denji;Hybrid;Male;Yeah, yeah, I get it. Guess it's snack time, then.
+611;1;6;Kill Denji;Kobeni;Human;Female;Oh, thank goodness.
+612;1;6;Kill Denji;Denji;Hybrid;Male;I'm not gonna go down smooth, though. So if I manage to kill this fucking devil... I still expect to get that kiss!
+613;1;6;Kill Denji;Power;Fiend;Female;Have you any plan to win?
+614;1;6;Kill Denji;Denji;Hybrid;Male;It's gonna hurt real bad, but I'll get my chainsaws out.
+615;1;6;Kill Denji;Kobeni;Human;Female;Ch-Chainsaws?
+616;1;6;Kill Denji;Denji;Hybrid;Male;I dunno what this devil's deal is, but it's scared of my chainsaws. That's why it didn't try to kill me, and wanted you guys to do it instead. And I remember it was crying about pain when it got attacked... So I figure, if I tear it up until it can't take the pain no more, it'll wanna kill itself!
+617;1;6;Kill Denji;Power;Fiend;Female;A very devilish idea indeed.
+618;1;7;The Taste of a Kiss;Denji;Hybrid;Male;I can't believe you did that for me. Nobody asked you. Asshole. I'm through with owing anybody anything, got it? So once you're out of here, we're even!
+619;1;7;The Taste of a Kiss;Kobeni;Human;Female;It's over...
+620;1;7;The Taste of a Kiss;Eternity Devil;Devil;Devil;I knew you were alive, Chainsaw!
+621;1;7;The Taste of a Kiss;Denji;Hybrid;Male;Yeow! All better!
+622;1;7;The Taste of a Kiss;Eternity Devil;Devil;Devil;This is pointless, Chainsaw! The pain! It hurts! You won't find my heart in here! You can't kill me!
+623;1;7;The Taste of a Kiss;Himeno;Human;Female;A devil?!
+624;1;7;The Taste of a Kiss;Power;Fiend;Female;This bodes ill. Denji's losing blood ceaselessly. When he's lost too much, his chainsaws will retract.
+625;1;7;The Taste of a Kiss;Eternity Devil;Devil;Devil;You are so much weaker now. How far you have fallen, Chainsaw?!
+626;1;7;The Taste of a Kiss;Denji;Hybrid;Male;My chainsaws are in? Need more blood!
+627;1;7;The Taste of a Kiss;Eternity Devil;Devil;Devil;You've failed! Die! Chainsaw!
+628;1;7;The Taste of a Kiss;Denji;Hybrid;Male;This blood might seriously taste like shit... But watching you shriek in pain... Makes it sweet like strawberry jam!
+629;1;7;The Taste of a Kiss;Kishibe;Human;Male;The hunters that devils fear... are the ones with a couple of screws loose. Sahara had his head on straight... So he died. Same goes for Kinouchi, and Subaru, and Sasaki. All sane. They were reasonable enough to fear attacks from a devil, and that fear made the devils stronger. You been working with Aki for a while now. What do you think about him? Is his head on straight?
+630;1;7;The Taste of a Kiss;Himeno;Human;Female;I wouldn't say that about anyone who's trying to kill the Gun Devil.
+631;1;7;The Taste of a Kiss;Kishibe;Human;Male;Didn't you join Public Safety because you were after the Gun Devil, too? You got any screws loose?
+632;1;7;The Taste of a Kiss;Himeno;Human;Female;No, sir.
+633;1;7;The Taste of a Kiss;Kishibe;Human;Male;Exactly. Most hunters, including you, are out to put the Gun Devil down. They're earnest. Honest. Straightforward. And that means the devils know exactly how to fuck with them. But there's no telling what a crazy person's thinking. And even devils are afraid of what they don't understand.
+634;1;7;The Taste of a Kiss;Himeno;Human;Female;You're drinking too much again, master.
+635;1;7;The Taste of a Kiss;Kishibe;Human;Male;See, that's being sensible again. Can't be unhinged without loosening the screws a bit every day. And if you're still visiting your partners' graves every month, then yours are still pretty tight. I'm heading home. Aki's still a punk, so make sure to work him over.
+636;1;7;The Taste of a Kiss;Himeno;Human;Female;I'll take it one step at a time.
+637;1;7;The Taste of a Kiss;Kishibe;Human;Male;Not good enough. The kid's serious about collecting the meat chunks, right? He's gonna actually find the Gun Devil if he does.
+638;1;7;The Taste of a Kiss;Himeno;Human;Female;No... No, no, no, no, no, no— No. Aki, you wanna join the private sector with me? I received a pretty generous offer! Instead of chasing the Gun, we could go out for lunch, see a movie on the way home, and really enjoy ourselves.
+639;1;7;The Taste of a Kiss;Aki;Human;Male;If you wanna go out for drinks, I'll join you. But I have no intention of ever going private. And I'll take your almond tofu.
+640;1;7;The Taste of a Kiss;Himeno;Human;Female;Then hand me a cigarette in exchange. If Aki fights the Gun Devil, he's gonna die. Not because we're too weak, or because it's the kind of devil that can kill hundreds of people in seconds. It's because Aki's cool, and serious, and kind... and normal, like most people. But...
+641;1;7;The Taste of a Kiss;Denji;Hybrid;Male;Take that!
+642;1;7;The Taste of a Kiss;Eternity Devil;Devil;Devil;Ow, ow! It... It's over.
+643;1;7;The Taste of a Kiss;Himeno;Human;Female;But him?
+644;1;7;The Taste of a Kiss;Denji;Hybrid;Male;Eureka, dude. I cut you up, and you bleed. I drink that blood and heal! I'm a fucking perpetual motion machine! That Nobel Prize is mine!
+645;1;7;The Taste of a Kiss;Himeno;Human;Female;I've never seen anyone crazier than him, so maybe he can kill the Gun Devil!
+646;1;7;The Taste of a Kiss;Eternity Devil;Devil;Devil;Pain... Ow, ow... It hurts...
+647;1;7;The Taste of a Kiss;Himeno;Human;Female;You still alive, Aki?
+648;1;7;The Taste of a Kiss;Aki;Human;Male;How long... How long has it been?
+649;1;7;The Taste of a Kiss;Himeno;Human;Female;About three days since you got stabbed, I think?
+650;1;7;The Taste of a Kiss;Power;Fiend;Female;Meowy...
+651;1;7;The Taste of a Kiss;Himeno;Human;Female;Let's all go out for drinks. Since it's over... I'm gonna sleep a bit.
+652;1;7;The Taste of a Kiss;Aki;Human;Male;It's over?
+653;1;7;The Taste of a Kiss;Eternity Devil;Devil;Devil;This is my weakness... It's my heart. Please kill me. I'm sorry. I apologize. It hurts...
+654;1;7;The Taste of a Kiss;Denji;Hybrid;Male;What, already?! I was still having fun! It was like being in a pool!
+655;1;7;The Taste of a Kiss;Denji;Hybrid;Male;We're out. Got a piece of the Gun Devil's flesh, the sky is clear... And I'm feeling good, like I just took a huge shit. It's like I'm floating...
+656;1;7;The Taste of a Kiss;Himeno;Human;Female;Whoa there. He's out... Makes sense, considering he was fighting the devil the whole time without sleeping. We'll get Aki and Denji to a hospital. You two head back to the office and check in.
+657;1;7;The Taste of a Kiss;Aki;Human;Male;A welcoming party?
+658;1;7;The Taste of a Kiss;Himeno;Human;Female;Yep. Since the full Division 4 is finally assembled, we ought to get to know each other better, and deal with some of our outstanding issues.
+659;1;7;The Taste of a Kiss;Aki;Human;Male;What issues?
+660;1;7;The Taste of a Kiss;Himeno;Human;Female;Well, the thing is, Kobeni and Arai are talking about quitting Public Safety. Not only are they afraid of the devils, they feel pretty guilty about trying to kill Denji, too.
+661;1;7;The Taste of a Kiss;Aki;Human;Male;You tried to kill him, too.
+662;1;7;The Taste of a Kiss;Himeno;Human;Female;I know, right?! Kids these days! They're so sensitive. Would it kill them to be a little bolder? Over drinks, they'll be able to apologize to Denji easily, and we'll be able to convince them to not quit.
+663;1;7;The Taste of a Kiss;Aki;Human;Male;You're just in this for drinks. It wasn't much, but I found a chunk of its flesh. If we're doing this, it needs to be this week.
+664;1;7;The Taste of a Kiss;Himeno;Human;Female;Why's that?
+665;1;7;The Taste of a Kiss;Aki;Human;Male;If we're having a drinking party, I want to invite Ms. Makima. She's going on a business trip to Kyoto next week. With so many devils targeting Denji, she's looking into getting reinforcements. So the party needs to be this week.
+666;1;7;The Taste of a Kiss;Himeno;Human;Female;Be honest with me. What do you think Denji is? That devil seemed to know about him, and I've never seen anything like what he turned into. But the biggest mystery is how much Ms. Makima seems to be interested in him. She used to travel all the time, but she's stuck to Tokyo lately, and that's probably because of Denji. Does she know his secret? Wanna get her hammered and ask about it?
+667;1;7;The Taste of a Kiss;Denji;Hybrid;Male;Man, all this stuff smells awesome! This is enough food for a lifetime!
+668;1;7;The Taste of a Kiss;Himeno;Human;Female;That's the stuff!
+669;1;7;The Taste of a Kiss;Denji;Hybrid;Male;Oh, here we go. This is nuts!
+670;1;7;The Taste of a Kiss;Waiter 1;Human;Female;Here's your plate.
+671;1;7;The Taste of a Kiss;Denji;Hybrid;Male;Where do I even start? It all smells great.
+672;1;7;The Taste of a Kiss;Aki;Human;Male;This is good. It's been six months since I last had anything to drink.
+673;1;7;The Taste of a Kiss;Fushi;Human;Male;I only drink a bit at home, too.
+674;1;7;The Taste of a Kiss;Power;Fiend;Female;Away with you! The sashimi shall all be mine!
+675;1;7;The Taste of a Kiss;Denji;Hybrid;Male;What even is this? Looks tasty!
+676;1;7;The Taste of a Kiss;Kobeni;Human;Female;Sorry... I got a little lost.
+677;1;7;The Taste of a Kiss;Division 4 Female Member;Human;Female;Kobe, Kobe! Right over here!
+678;1;7;The Taste of a Kiss;Himeno;Human;Female;Ms. Makima says she'll be late.
+679;1;7;The Taste of a Kiss;Madoka;Human;Male;Three parfaits. And then... Three shiratama dumpling trays.
+680;1;7;The Taste of a Kiss;Kobeni;Human;Female;I've never had anything this good before.
+681;1;7;The Taste of a Kiss;Division 4 Female Member;Human;Female;You send most of your pay home, right? Be sure to eat your fill.
+682;1;7;The Taste of a Kiss;Power;Fiend;Female;Hands off, you scoundrel! The fried chicken is all mine!
+683;1;7;The Taste of a Kiss;Aki;Human;Male;You didn't bring your Fiend, Fushi?
+684;1;7;The Taste of a Kiss;Fushi;Human;Male;They're a little too scary for a place like this. I envy how reasonable yours is, Hayakawa.
+685;1;7;The Taste of a Kiss;Division 4 Male Member;Human;Male;Hey! You're young, so order whatever you want! And eat up!
+686;1;7;The Taste of a Kiss;Denji;Hybrid;Male;Damn it! I can't read most of these kanji... Kisu Tempura So... about that kiss...
+687;1;7;The Taste of a Kiss;Himeno;Human;Female;I'm too bashful to do it right now. Let me drink a bit more first. I'll make it a juicy one, too. So will you forgive us for trying to kill you?
+688;1;7;The Taste of a Kiss;Denji;Hybrid;Male;Dude, all is forgiven! Super forgiven!
+689;1;7;The Taste of a Kiss;Division 4 Male Member;Human;Male;This is a welcoming party for the rookies, so stand up and introduce yourselves! Your name, age, and the devil you're contracted with!
+690;1;7;The Taste of a Kiss;Aki;Human;Male;Don't reveal your devil contract in public. You shouldn't share that with anyone you don't trust.
+691;1;7;The Taste of a Kiss;Division 4 Male Member;Human;Male;Man, you never loosen up, do you?
+692;1;7;The Taste of a Kiss;Himeno;Human;Female;Aw, it's fine! It's probably fine.
+693;1;7;The Taste of a Kiss;Division 4 Female Member;Human;Female;I wanna know hobbies, too. They tell you a lot about a person.
+694;1;7;The Taste of a Kiss;Denji;Hybrid;Male;I'm Denji. I'm 16, if I remember right. My hobbies are eating and sleeping!
+695;1;7;The Taste of a Kiss;Division 4 Female Member;Human;Female;Yikes, that is young.
+696;1;7;The Taste of a Kiss;Himeno;Human;Female;You didn't drink, did you?!
+697;1;7;The Taste of a Kiss;Denji;Hybrid;Male;Just tea.
+698;1;7;The Taste of a Kiss;Hirokazu Arai;Human;Male;I'm Hirokazu Arai! I'm 22 years old! I've got a contract with the Fox Devil! My hobby is writing haiku!
+699;1;7;The Taste of a Kiss;Denji;Hybrid;Male;That's the same devil as Hayakaptain.
+700;1;7;The Taste of a Kiss;Aki;Human;Male;The Fox Devil is friendly toward humans. She's got contracts with a lot of hunters.
+701;1;7;The Taste of a Kiss;Himeno;Human;Female;But she only lets hot ones call on her head! As devils go, she's down bad.
+702;1;7;The Taste of a Kiss;Kobeni;Human;Female;I'm Kobeni Higashiyama. I'm 20... I've got a devil contract... but it's a secret. My hobby is eating tasty things.
+703;1;7;The Taste of a Kiss;Division 4 Female Member;Human;Female;Isn't her outfit cute?
+704;1;7;The Taste of a Kiss;Madoka;Human;Male;Yeah.
+705;1;7;The Taste of a Kiss;Kobeni;Human;Female;It's a hand-me-down from my sister.
+706;1;7;The Taste of a Kiss;Division 4 Female Member;Human;Female;Kobeni has eight sisters. Isn't that crazy?
+707;1;7;The Taste of a Kiss;Himeno;Human;Female;Hey, where's your rookie, Fushi?
+708;1;7;The Taste of a Kiss;Fushi;Human;Male;I'm sad to report that they were killed yesterday.
+709;1;7;The Taste of a Kiss;Himeno;Human;Female;Rest in peace! They will be... mist... pissed... missed?
+710;1;7;The Taste of a Kiss;Aki;Human;Male;Already wasted, huh?
+711;1;7;The Taste of a Kiss;Hirokazu Arai;Human;Male;Do people really die that often?
+712;1;7;The Taste of a Kiss;Division 4 Male Member;Human;Male;Public Safety handles the devils too tough for the private sector.
+713;1;7;The Taste of a Kiss;Division 4 Female Member;Human;Female;Yeah, we're always dropping like flies. No one who joined up at the same time as me is still alive.
+714;1;7;The Taste of a Kiss;Himeno;Human;Female;Denji's not gonna die, cuz he wants a smooch!
+715;1;7;The Taste of a Kiss;Division 4 Male Member;Human;Male;Himeno gets really friendly when she's drunk. I'm pretty sure she's kissed everyone here, apart from the rookies. There's no escaping her.
+716;1;7;The Taste of a Kiss;Denji;Hybrid;Male;That's a guaranteed kiss! Today's the day... of my first kiss.
+717;1;7;The Taste of a Kiss;Makima;Devil;Female;What kiss?
+718;1;7;The Taste of a Kiss;Himeno;Human;Female;Ms. Makima!
+719;1;7;The Taste of a Kiss;Makima;Devil;Female;Excuse me, I'd like a draft beer.
+720;1;7;The Taste of a Kiss;Aki;Human;Male;Have a seat, Ms. Makima.
+721;1;7;The Taste of a Kiss;Division 4 Female Member;Human;Female;I've never seen her in person before.
+722;1;7;The Taste of a Kiss;Makima;Devil;Female;So, are you kissing someone, Denji?
+723;1;7;The Taste of a Kiss;Denji;Hybrid;Male;No, ma'am!
+724;1;7;The Taste of a Kiss;Himeno;Human;Female;Aw, are we not gonna kiss, Denji?!
+725;1;7;The Taste of a Kiss;Denji;Hybrid;Male;We are!
+726;1;7;The Taste of a Kiss;Makima;Devil;Female;Excuse me. Another beer. So, what's this about kisses?
+727;1;7;The Taste of a Kiss;Denji;Hybrid;Male;I don't want Ms. Makima to see me kiss Himeno.
+728;1;7;The Taste of a Kiss;Himeno;Human;Female;No smoochies?
+729;1;7;The Taste of a Kiss;Denji;Hybrid;Male;But I want a kiss with tongue just as bad! I've gotta try and change the subject! Ms. Makima! Y'know, I got one of them Gun Devil thingies!
+730;1;7;The Taste of a Kiss;Makima;Devil;Female;Yes, I heard. That's very impressive, Denji.
+731;1;7;The Taste of a Kiss;Aki;Human;Male;We've never seen devils appearing with Gun Devil flesh this frequently before. Given how the most recent one was targeting Denji, something must be going on. Do you know what Denji's deal is, ma'am?
+732;1;7;The Taste of a Kiss;Power;Fiend;Female;Relinquish that! That, too, is mine!
+733;1;7;The Taste of a Kiss;Makima;Devil;Female;I'll tell you if you can outdrink me.
+734;1;7;The Taste of a Kiss;Aki;Human;Male;Two more beers, please.
+735;1;7;The Taste of a Kiss;Himeno;Human;Female;I want in on that! Make it three!
+736;1;7;The Taste of a Kiss;Power;Fiend;Female;Horse sashimi! Fried chicken! And more horse sashimi!
+737;1;7;The Taste of a Kiss;Denji;Hybrid;Male;Fried chicken!
+738;1;7;The Taste of a Kiss;Power;Fiend;Female;That's mine, too.
+739;1;7;The Taste of a Kiss;Makima;Devil;Female;Another beer, if you would.
+740;1;7;The Taste of a Kiss;Division 4 Female Member;Human;Female;You're pretty impressive, Power. There aren't a lot of Fiends who can control their urge to kill.
+741;1;7;The Taste of a Kiss;Power;Fiend;Female;A feat of my advanced IQ!
+742;1;7;The Taste of a Kiss;Division 4 Female Member;Human;Female;Is IQ part of it? How high is yours, then?
+743;1;7;The Taste of a Kiss;Power;Fiend;Female;Um... 100?
+744;1;7;The Taste of a Kiss;Division 4 Female Member;Human;Female;Is that high? I think my score was around 100, too.
+745;1;7;The Taste of a Kiss;Power;Fiend;Female;Then it was 120.
+746;1;7;The Taste of a Kiss;Division 4 Female Member;Human;Female;If I remember right, Fushi's is high.
+747;1;7;The Taste of a Kiss;Fushi;Human;Male;Specifically, 134.
+748;1;7;The Taste of a Kiss;Division 4 Female Member;Human;Female;Wow, must be proud enough to actually remember it.
+749;1;7;The Taste of a Kiss;Power;Fiend;Female;If I recall, mine was 500? Perhaps 1000?
+750;1;7;The Taste of a Kiss;Makima;Devil;Female;Oh my.
+751;1;7;The Taste of a Kiss;Denji;Hybrid;Male;She's watching! Ms. Makima's watching. But what is this? The kiss is afoot! Is that a tongue I feel? Feels good... soft! Really soft! What the hell?! It's her tongue... But it's melting in my mouth?! That's... not... a tongue! It's puke!
+752;1;7;The Taste of a Kiss;Division 4 Male Member;Human;Male;Well, that's traumatic.
+753;1;7;The Taste of a Kiss;Makima;Devil;Female;Uh-oh... Excuse me, can we get something to wipe this up?
+754;1;7;The Taste of a Kiss;Power;Fiend;Female;Oh, this isn't good! Not good at all! Denji will swallow anything remotely nutritious!
+755;1;7;The Taste of a Kiss;Denji;Hybrid;Male;Pochita! I found something edible! Check it out, Pochita! Those rats are chowing on some drunk's puke! Eating puke! What a joke! What kinda mammals are they?!
+756;1;7;The Taste of a Kiss;Hirokazu Arai;Human;Male;Unbelievable... Himeno has absolutely no restraint. My method for throwing up works pretty well, right? I used to look after my mom when she came home drunk from work. Not that it makes me as good a Devil Hunter as you. I'm pretty jealous.
+757;1;7;The Taste of a Kiss;Denji;Hybrid;Male;Jealous?! Dude... My first kiss tasted like barf! And you're jealous?!
+758;1;7;The Taste of a Kiss;Makima;Devil;Female;I'll see Hayakawa and his household home.
+759;1;7;The Taste of a Kiss;Fushi;Human;Male;You wanna drop by somewhere else?
+760;1;7;The Taste of a Kiss;Division 4 Female Member;Human;Female;I drank a lot...
+761;1;7;The Taste of a Kiss;Makima;Devil;Female;Arai, look after Himeno.
+762;1;7;The Taste of a Kiss;Fushi;Human;Male;Ms. Makima paid the tab tonight, everyone, so show your gratitude.
+763;1;7;The Taste of a Kiss;Kobeni;Human;Female;Nothing tastes better than drinks someone else paid for.
+764;1;7;The Taste of a Kiss;Division 4 Female Member;Human;Female;Yep.
+765;1;7;The Taste of a Kiss;Makima;Devil;Female;Huh? Where's Denji?
+766;1;7;The Taste of a Kiss;Fushi;Human;Male;I saw Himeno pick him up and walk off somewhere.
+767;1;7;The Taste of a Kiss;Denji;Hybrid;Male;It's dark... So dark... Where the hell am I? Water... Water... Water... Come to think of it, the puke girl gave me a barf kiss. Damn it! Water, water...
+768;1;7;The Taste of a Kiss;Himeno;Human;Female;Huh... It's Den-Den-Denji? What are you doing in my place? Did I bring you here? Huh?
+769;1;7;The Taste of a Kiss;Denji;Hybrid;Male;I'm so dizzy... What the hell?
+770;1;7;The Taste of a Kiss;Himeno;Human;Female;Y'know, I noticed you're head over heels for Makima.
+771;1;7;The Taste of a Kiss;Denji;Hybrid;Male;My head's spinning...
+772;1;7;The Taste of a Kiss;Himeno;Human;Female;You could do better than that bitch, seriously. You and Aki, fawning all over her! Ugh... Seriously! Moo-ve on! Wanna do it?
+773;1;8;Gunfire;Himeno;Human;Female;Oof... Now, where's that key? There we go. Upsy-daisy... Ow! Man... And down. Hup... Off you go. And the other. Good stuff. What was Ms. Makima's deal again, anyway? Oh, well...
+774;1;8;Gunfire;Denji;Hybrid;Male;Water... Water...
+775;1;8;Gunfire;Himeno;Human;Female;Huh... It's Den-Den-Denji? What are you doing in my place? Did I bring you here? Huh?
+776;1;8;Gunfire;Denji;Hybrid;Male;I'm so dizzy... What the hell?
+777;1;8;Gunfire;Himeno;Human;Female;Y'know, I noticed you're head over heels for Makima.
+778;1;8;Gunfire;Denji;Hybrid;Male;My head's spinning...
+779;1;8;Gunfire;Himeno;Human;Female;You could do better than that bitch, seriously. You and Aki, fawning all over her! Ugh... Seriously! Moo-ve on! Wanna do it?
+780;1;8;Gunfire;Denji;Hybrid;Male;Do... Do what?
+781;1;8;Gunfire;Himeno;Human;Female;Have sex. Stick 'em up. There you go. Good boy.
+782;1;8;Gunfire;Denji;Hybrid;Male;Is this a good idea?
+783;1;8;Gunfire;Himeno;Human;Female;Good boy!
+784;1;8;Gunfire;Denji;Hybrid;Male;I was supposed to have my first kiss with Ms. Makima.
+785;1;8;Gunfire;Himeno;Human;Female;Good boy!
+786;1;8;Gunfire;Denji;Hybrid;Male;This chick puked all over that. Can I really let her have my first time? Yes!
+787;1;8;Gunfire;Himeno;Human;Female;There we go... Let's get these off, too. You got something in your pocket, here? A Chupa Chups?! Ew!
+788;1;8;Gunfire;Makima;Devil;Female;Denji... Denji? Are you okay, Denji? Maybe you should get some fresh air. I bought some nausea medicine at the supermarket. Take it when you go to bed, along with some water.
+789;1;8;Gunfire;Denji;Hybrid;Male;Ms. Makima, I... My first kiss turned out really shitty. Even if I kiss a bunch of girls from now on, am I gonna remember the taste of puke every time?
+790;1;8;Gunfire;Makima;Devil;Female;Open your mouth. I doubt you'll ever forget how that puke tasted. But it's okay, because until you die, you're going to experience a lot of new things. And you won't have time to think about vomit. As for your first indirect kiss, looks like it tastes like a Cola-flavored Chupa Chups.
+791;1;8;Gunfire;Denji;Hybrid;Male;Sorry, Pochita. You probably wanted to score. But I want the first time to be with Ms. Makima. So until I kill the Gun Devil... Until then...
+792;1;8;Gunfire;Himeno;Human;Female;Good morning, Denji. Want some breakfast?
+793;1;8;Gunfire;Denji;Hybrid;Male;Looking down on people while you eat makes food taste better.
+794;1;8;Gunfire;Himeno;Human;Female;Denji, I was so drunk last night I blacked out. I didn't take advantage of you last night, did I?
+795;1;8;Gunfire;Denji;Hybrid;Male;You think I want a piece of some pukey chick? My first time's gonna be with Ms. Makima.
+796;1;8;Gunfire;Himeno;Human;Female;Well, that is a relief! They toss you in jail for doing that kinda thing with minors, y'know. You're an odd one, Denji. Most people would feel too awkward to eat after something like that.
+797;1;8;Gunfire;Denji;Hybrid;Male;Who the hell turns down free food?
+798;1;8;Gunfire;Himeno;Human;Female;So, you like Ms. Makima, too, right, Denji?
+799;1;8;Gunfire;Denji;Hybrid;Male;I super like her.
+800;1;8;Gunfire;Himeno;Human;Female;Would you still like her if her personality was shitty?
+801;1;8;Gunfire;Denji;Hybrid;Male;I'd like the shit out of her.
+802;1;8;Gunfire;Himeno;Human;Female;Perfect! I'm gonna get the two of you together.
+803;1;8;Gunfire;Denji;Hybrid;Male;For real?!
+804;1;8;Gunfire;Himeno;Human;Female;For really real. I propose we form a secret alliance, Denji. I'm gonna help you get together with Ms. Makima, so you help me get with Aki.
+805;1;8;Gunfire;Denji;Hybrid;Male;What do you like about him, anyway?
+806;1;8;Gunfire;Himeno;Human;Female;His face.
+807;1;8;Gunfire;Denji;Hybrid;Male;All right. You're on. Let's do this alliance thing.
+808;1;8;Gunfire;Himeno;Human;Female;So, starting today, we're not just coworkers, but friends. You should come over for breakfast every now and then. Bring the Fiend and Aki.
+809;1;8;Gunfire;Denji;Hybrid;Male;I wonder if Ms. Makima would come, too.
+810;1;8;Gunfire;Makima;Devil;Female;When are we supposed to arrive in Kyoto?
+811;1;8;Gunfire;Subordinate (Train);Human;Male;About 30 minutes.
+812;1;8;Gunfire;Makima;Devil;Female;I should buy a lunch at the station.
+813;1;8;Gunfire;Subordinate (Train);Human;Male;You've got a lunch meeting at 1...
+814;1;8;Gunfire;Makima;Devil;Female;I'll make sure to be hungry again by then. I hate meeting with the Kyoto bigwigs. They're so intimidating. A meal is better when you get to relax. Last night's drinks were very good.
+815;1;8;Gunfire;Team C Assassin;Human;Male;This is Team C. This is Team C. We are go.
+816;1;8;Gunfire;Denji;Hybrid;Male;I wonder what that was.
+817;1;8;Gunfire;Power;Fiend;Female;Your ignorance astounds! 'Twas a taiko drum.
+818;1;8;Gunfire;Denji;Hybrid;Male;Maybe some kind of festival?
+819;1;8;Gunfire;Power;Fiend;Female;Did the two of you truly not mate last night?
+820;1;8;Gunfire;Himeno;Human;Female;Denji's more of a gentleman than you'd think.
+821;1;8;Gunfire;Katana Man;Hybrid;Male;I'm amazed you can eat the ramen at this joint. The taste don't bug you?
+822;1;8;Gunfire;Himeno;Human;Female;Who's that?
+823;1;8;Gunfire;Denji;Hybrid;Male;Tastes good to me.
+824;1;8;Gunfire;Power;Fiend;Female;Do not speak to me so casually!
+825;1;8;Gunfire;Katana Man;Hybrid;Male;Guess you can't tell good from bad when it comes to food. Figures, though... You eat crap from an early age, you're bound to have bad taste when you're grown. Hard to be happy with bad taste, too.
+826;1;8;Gunfire;Power;Fiend;Female;I am perfectly happy!
+827;1;8;Gunfire;Aki;Human;Male;You guys wanna leave?
+828;1;8;Gunfire;Katana Man;Hybrid;Male;My granddad was the sweetest guy in the world.
+829;1;8;Gunfire;Katana Man;Hybrid;Male;Took me to fancy places with really good food. He was a yakuza, but he was still a good guy. Like a "necessary evil." That's what they woulda called him. Only ever killed a handful of women and children. Used to spoil me rotten with the money he made from dealing. Everybody loved him. He was the real model of a Tokyoite. You loved him, too, didn't you, Denji?
+830;1;8;Gunfire;Denji;Hybrid;Male;What the fuck do you want?
+831;1;8;Gunfire;Aki;Human;Male;You know him?
+832;1;8;Gunfire;Katana Man;Hybrid;Male;I hear the Gun Devil's after your heart.
+833;1;8;Gunfire;Power;Fiend;Female;Topknot!
+834;1;8;Gunfire;Aki;Human;Male;Kon!
+835;1;8;Gunfire;Fox Devil;Devil;Devil;Aki Hayakawa... You've certainly put something outrageous in my mouth this time. Neither human... nor devil.
+836;1;8;Gunfire;Aki;Human;Male;Power, stop Himeno's bleeding.
+837;1;8;Gunfire;Power;Fiend;Female;A nail?
+838;1;8;Gunfire;Aki;Human;Male;Now!
+839;1;8;Gunfire;Curse Devil;Devil;Devil;Three.
+840;1;8;Gunfire;Aki;Human;Male;Now!
+841;1;8;Gunfire;Curse Devil;Devil;Devil;Two.
+842;1;8;Gunfire;Aki;Human;Male;Now!
+843;1;8;Gunfire;Curse Devil;Devil;Devil;One.
+844;1;8;Gunfire;Katana Man;Hybrid;Male;What kinda creepy shit is that?
+845;1;8;Gunfire;Aki;Human;Male;Curse, finish him!
+846;1;8;Gunfire;Curse Devil;Devil;Devil;Zero.
+847;1;8;Gunfire;Aki;Human;Male;How is she?!
+848;1;8;Gunfire;Power;Fiend;Female;In need of a doctor, I'd say.
+849;1;8;Gunfire;Aki;Human;Male;He had a gun. It should be impossible for anyone but the police or Devil Hunters to get them in Japan.
+850;1;8;Gunfire;Katana Man;Hybrid;Male;I hear the Gun Devil's after your heart.
+851;1;8;Gunfire;Aki;Human;Male;Our first priority is getting Himeno looked after…
+852;1;8;Gunfire;Akane Sawatari;Human;Female;The Curse Devil. I guess getting hit by that nail enough times means you die? You've got some pretty good moves.
+853;1;8;Gunfire;Aki;Human;Male;Where did you come from? Are you working with him?
+854;1;8;Gunfire;Akane Sawatari;Human;Female;Know why you lost?
+855;1;8;Gunfire;Katana Man;Hybrid;Male;Underestimated him. Like, real bad.
+856;1;8;Gunfire;Akane Sawatari;Human;Female;Better kill him this time, then. He's still alive, y'know. Those Devil Hunter suits are pretty sturdy. Finish him off.
+857;1;8;Gunfire;Himeno;Human;Female;Don't worry about me. Help Aki.
+858;1;8;Gunfire;Power;Fiend;Female;I can not. I couldn't even follow his movements.
+859;1;8;Gunfire;Himeno;Human;Female;Ghost!
+860;1;8;Gunfire;Ghost Devil;Devil;Devil;No. That girl is dreadful.
+861;1;8;Gunfire;Himeno;Human;Female;I'll give you everything I've got... So give me everything you've got. Aki can cry. Most Devil Hunters see so many people around them die, so often, their tears run dry. But Aki cries so easily. I used to think it was funny how he would cry in private, after the rookies he was looking after died. Having someone care for you enough to cry like that... must be nice.
+862;1;8;Gunfire;Katana Man;Hybrid;Male;Hey! Little help here?!
+863;1;8;Gunfire;Himeno;Human;Female;Don't die on me, Aki. So that when I die... You can cry for me.
+864;1;8;Gunfire;Akane Sawatari;Human;Female;Snake: Swallow it whole. Leave.
+865;1;9;From Kyoto;Himeno;Human;Female;Don't die on me, Aki. So that when I die... You can cry for me.
+866;1;9;From Kyoto;Akane Sawatari;Human;Female;Snake: Swallow it whole. Leave.
+867;1;9;From Kyoto;Katana Man;Hybrid;Male;The Fiend ran off.
+868;1;9;From Kyoto;Akane Sawatari;Human;Female;We're after Chainsaw's heart. Don't bother with her.
+869;1;9;From Kyoto;Katana Man;Hybrid;Male;This time, I'm gonna split him in two.
+870;1;9;From Kyoto;Akane Sawatari;Human;Female;Don't damage the heart.
+871;1;9;From Kyoto;Denji;Hybrid;Male;I dunno what the fuck's going on... But it's easy enough to tell you two are bad guys. I love bad guys, y'know... Nobody gives me any shit when I kill them!
+872;1;9;From Kyoto;Katana Man;Hybrid;Male;So I get to kill you a second time.
+873;1;9;From Kyoto;Denji;Hybrid;Male;Die!
+874;1;9;From Kyoto;Akane Sawatari;Human;Female;This is Sawatari. We've engaged Chainsaw on the third floor of the Nerima Nishidai building. Send reinforcements.
+875;1;9;From Kyoto;Denji;Hybrid;Male;Take this!
+876;1;9;From Kyoto;Sawatari minion 1;Human;Male;Do we shoot?
+877;1;9;From Kyoto;Katana Man;Hybrid;Male;Aim for the arms or the heart.
+878;1;9;From Kyoto;Denji;Hybrid;Male;Asshole! Ow, ow, ow... Huh. When'd he even cut me? That hurts! Hey, bad guy! He's one of your buddies, right?
+879;1;9;From Kyoto;Katana Man;Hybrid;Male;What's your point?
+880;1;9;From Kyoto;Denji;Hybrid;Male;I dare you to move a millimeter! Or I'll turn your buddy-boy's head into ground beef!
+881;1;9;From Kyoto;Katana Man;Hybrid;Male;Asshole.
+882;1;9;From Kyoto;Denji;Hybrid;Male;Yeah, that's right! Sit your ass down! Where'd he go?
+883;1;9;From Kyoto;Katana Man;Hybrid;Male;Let's move him. Get the car, now. Hurry it up. All of Chainsaw's people should be dead. I guess Devil Hunters are still human... Meaning they can't win against guns.
+884;1;9;From Kyoto;Passenger 1;Human;Male;Guns...
+885;1;9;From Kyoto;Team C Assassin;Human;Male;We're almost at the station. Let's move through the cars and split up among the civvies.
+886;1;9;From Kyoto;Devil Hunter 4;Human;Male;Tendo! Special Divisions 1 through 4 all came under assault in Tokyo.
+887;1;9;From Kyoto;Yutaro Kurose;Human;Male;Seriously? Is Ms. Makima dead?
+888;1;9;From Kyoto;Michiko Tendo;Human;Female;Ugh. Have we been wasting our time here?
+889;1;9;From Kyoto;Makima;Devil;Female;Kurose. Tendo. There was a shooting on the train. The bodies are still there, so take care of them. The lunch meeting is canceled.
+890;1;9;From Kyoto;Yutaro Kurose;Human;Male;There were shots fired in Tokyo, too. Ms. Makima, you're covered in blood!
+891;1;9;From Kyoto;Michiko Tendo;Human;Female;Were you hit?!
+892;1;9;From Kyoto;Makima;Devil;Female;This isn't mine. I wasn't shot.
+893;1;9;From Kyoto;Michiko Tendo;Human;Female;Things are in chaos over there, so we don't have a lot of reliable information. They're apparently still confirming the casualties.
+894;1;9;From Kyoto;Yutaro Kurose;Human;Male;So... should we head to Tokyo as backup right now?
+895;1;9;From Kyoto;Makima;Devil;Female;We won't make it in time if we do. The enemy is probably after Denji. I'll do what I can from here. Kurose, I need you to borrow 30 convicts with life sentences or worse from the Ministry of Justice. Tendo, find the nearest temple with the highest altitude, and reserve it. Also... I need some clean clothes, if you would.
+896;1;9;From Kyoto;Convict 1;Human;Male;Where are we going?
+897;1;9;From Kyoto;Convict 2;Human;Male;Hell if I know.
+898;1;9;From Kyoto;Prision Guard 1;Human;Male;Hey, no talking back there.
+899;1;9;From Kyoto;Michiko Tendo;Human;Female;Ms. Makima... They're almost here.
+900;1;9;From Kyoto;Makima;Devil;Female;Thank you, Tendo. I'll be right there.
+901;1;9;From Kyoto;Takashi Inoue;Human;Male;Move it.
+902;1;9;From Kyoto;Katana Man;Hybrid;Male;I'm gonna be out of action for a bit.
+903;1;9;From Kyoto;Akane Sawatari;Human;Female;Mm.
+904;1;9;From Kyoto;Shuzou Mishima;Human;Male;So heavy... Gimme a hand here!
+905;1;9;From Kyoto;Sawatari minion 2;Human;Male;Yeah, yeah, yeah.
+906;1;9;From Kyoto;Shuzou Mishima;Human;Male;Hold him up on that end.
+907;1;9;From Kyoto;Sawatari minion 2;Human;Male;How exactly is this supposed to work?
+908;1;9;From Kyoto;Shuzou Mishima;Human;Male;Hey! Hey, come on already!
+909;1;9;From Kyoto;Sawatari minion 2;Human;Male;Something's... what the hell?
+910;1;9;From Kyoto;Shuzou Mishima;Human;Male;Quit freaking out! Just lift.
+911;1;9;From Kyoto;Sawatari minion 2;Human;Male;I'm telling you, something's weird!
+912;1;9;From Kyoto;Akane Sawatari;Human;Female;What exactly do you mean by... Team E, have Team C verify Makima's body.
+913;1;9;From Kyoto;Team E Assassin;Human;Male;This is Team E. Team E here. Team C hasn't been in contact since...
+914;1;9;From Kyoto;Akane Sawatari;Human;Female;That bitch.
+915;1;9;From Kyoto;Yutaro Kurose;Human;Male;Why exactly are we blindfolded?
+916;1;9;From Kyoto;Michiko Tendo;Human;Female;Ms. Makima reports directly to the Chief Cabinet Secretary. Rank-and-file Devil Hunters like us don't have clearance to know about her devil contracts.
+917;1;9;From Kyoto;Makima;Devil;Female;Say the name "Shuzo Mishima."
+918;1;9;From Kyoto;Convict 1;Human;Male;Shuzo Mishima...
+919;1;9;From Kyoto;Katana Man;Hybrid;Male;We need to get Chainsaw moving, now!
+920;1;9;From Kyoto;Shuzou Mishima;Human;Male;G-Got it!
+921;1;9;From Kyoto;Katana Man;Hybrid;Male;Hey! Into the car! Damn it! Are you listening to me?! Mishima!
+922;1;9;From Kyoto;Makima;Devil;Female;Say the name "Takashi Inoue."
+923;1;9;From Kyoto;Convict 2;Human;Male;Takashi Inoue...
+924;1;9;From Kyoto;Katana Man;Hybrid;Male;Hey!
+925;1;9;From Kyoto;Girl 3;Human;Female;No!
+926;1;9;From Kyoto;Sawatari minion 3;Human;Male;Hey! Hey! Somebody help!
+927;1;9;From Kyoto;Akane Sawatari;Human;Female;It's over.
+928;1;9;From Kyoto;Makima;Devil;Female;You can take those off. That's all that can be done from here. I need to get back to Tokyo.
+929;1;9;From Kyoto;Akane Sawatari;Human;Female;A bullshit power like this is bound to be Makima. Let's get out of here while we still can.
+930;1;9;From Kyoto;Katana Man;Hybrid;Male;Damn it! I thought they killed her.
+931;1;9;From Kyoto;Kobeni;Human;Female;You two... are with the shooters, aren't you?
+932;1;9;From Kyoto;Akane Sawatari;Human;Female;Snake. Tail!
+933;1;9;From Kyoto;Katana Man;Hybrid;Male;What is she, a monkey?!
+934;1;9;From Kyoto;Akane Sawatari;Human;Female;Shit! You can die in the van!
+935;1;9;From Kyoto;Kobeni;Human;Female;I'm sorry I tried to kill you the other day. Apologizing for attempted murder... What the heck? This is bad... I'm freaking out! He protected me. It's my... my fault... I... I'm just... I can't do this... This job is going to drive me nuts! I'll have to tell Himeno I'm quitting when I see her again.
+936;1;9;From Kyoto;Makima;Devil;Female;I'm glad to see you alive, Madoka. How much of the Special Divisions survived?
+937;1;9;From Kyoto;Madoka;Human;Male;Special Divisions 1, 2, 3, and 4 all came under assault, and just about everyone is dead except for the non-humans.
+938;1;9;From Kyoto;Makima;Devil;Female;An assault with guns, targeting the Special Divisions... It seems like the Gun Devil must be involved.
+939;1;9;From Kyoto;Madoka;Human;Male;I've got a message from up above. Due to the personnel shortage, Divisions 1, 2, and 3 will be absorbed into 4. And as of now, Public Safety Devil Extermination Special Division 4 will be under your command, Makima. Also, this.
+940;1;9;From Kyoto;Makima;Devil;Female;What is it?
+941;1;9;From Kyoto;Madoka;Human;Male;My resignation.
+942;1;9;From Kyoto;Makima;Devil;Female;You're quitting?
+943;1;9;From Kyoto;Madoka;Human;Male;The Special Division seems like bad news at this point. I figure the choice is between quitting or getting killed.
+944;1;9;From Kyoto;Makima;Devil;Female;I see.
+945;1;9;From Kyoto;Madoka;Human;Male;There's one last thing I'm curious about. How much of what happened today did you anticipate, Ms. Makima?
+946;1;9;From Kyoto;Makima;Devil;Female;I'm afraid I can't share Public Safety intel with private citizens. Thank you for your service, Madoka. I'll pass this along.
+947;1;9;From Kyoto;Yutaro Kurose;Human;Male;Uh... Ms. Makima, you know we're not actually joining your Special Division, right?
+948;1;9;From Kyoto;Michiko Tendo;Human;Female;We're just here to help with training, okay?
+949;1;9;From Kyoto;Yutaro Kurose;Human;Male;And in a week, we'll be heading right back to Kyoto.
+950;1;9;From Kyoto;Makima;Devil;Female;That's a shame. The dining in Tokyo is to die for.
+951;1;10;Bruised & Battered;News Journalist;Human;Male;Yesterday afternoon, at the Nerima Nishidai building across from Nerima Station, Devil Hunters from Public Safety engaged in a large-scale battle. However, there have been eyewitness reports that their opponents were humans in addition to devils, making the exact nature of the conflict…
+952;1;10;Bruised & Battered;Power;Fiend;Female;Be silent. You! Relinquish the apple! I shall eat it.
+953;1;10;Bruised & Battered;Denji;Hybrid;Male;Hell no! They're all mine! You ran, so no apples for you!
+954;1;10;Bruised & Battered;Power;Fiend;Female;I did not run! I simply grew hungry and went home!
+955;1;10;Bruised & Battered;Denji;Hybrid;Male;Quit lying! Scaredy-Fiend! Chicken!
+956;1;10;Bruised & Battered;Power;Fiend;Female;You are the one who is lying!
+957;1;10;Bruised & Battered;Denji;Hybrid;Male;Say what?!
+958;1;10;Bruised & Battered;Power;Fiend;Female;What of it?!
+959;1;10;Bruised & Battered;Denji;Hybrid;Male;Get off!
+960;1;10;Bruised & Battered;Aki;Human;Male;Division 4... Did anyone from Division 4 survive?
+961;1;10;Bruised & Battered;Denji;Hybrid;Male;That shrimp, Kobeni, and... the glasses dude, I think. But he quit Public Safety. Ms. Makima wants to talk to me and Powy, so we're gonna head out.
+962;1;10;Bruised & Battered;Power;Fiend;Female;I only came to eat the fruit you've been gifted.
+963;1;10;Bruised & Battered;Denji;Hybrid;Male;I'll leave you an apple. See ya.
+964;1;10;Bruised & Battered;Aki;Human;Male;Curse... how much time do I have left?
+965;1;10;Bruised & Battered;Curse Devil;Devil;Devil;Two years.
+966;1;10;Bruised & Battered;Denji;Hybrid;Male;I come back for my manga and the dude's crying. Well, I can't blame him. A bunch of his work buddies are dead. His partner, Himeno, bought it, too. Huh? I haven't been crying at all, though? When Pochita died, I was pretty damn sad. But Himeno's dead... And she's the first person who ever wanted to be my friend. Am I shitty? Would I cry if Power died? Doubt it. What if he died? Probably not. What if Ms. Makima died? If Ms. Makima died... I'd probably be pretty down for a while, but after three days, I think I'd be back to enjoying stuff again. I mean, three square meals a day and baths and good sleep every night is pretty awesome to me. Maybe my heart's gone in more than one way... Eh, why bother taking it so seriously? This stuff is no fun, so thinking about it is bound to be a buzzkill! Better go see Ms. Makima instead!
+967;1;10;Bruised & Battered;Power;Fiend;Female;Such melancholy.
+968;1;10;Bruised & Battered;Michiko Tendo;Human;Female;Pardon us.
+969;1;10;Bruised & Battered;Yutaro Kurose;Human;Male;Hey there. Huh? Were you crying?
+970;1;10;Bruised & Battered;Michiko Tendo;Human;Female;Should we come back later?
+971;1;10;Bruised & Battered;Aki;Human;Male;Who are you two?
+972;1;10;Bruised & Battered;Michiko Tendo;Human;Female;Ms. Makima asked us to come in from Kyoto to help coach Special Division 4.
+973;1;10;Bruised & Battered;Yutaro Kurose;Human;Male;You gonna eat that apple?
+974;1;10;Bruised & Battered;Aki;Human;Male;Coach?
+975;1;10;Bruised & Battered;Makima;Devil;Female;It's become clear, between the hotel incident and this attack, that the enemy is after Denji. Which is why I want to strengthen Division 4, but most of its agents are dead.
+976;1;10;Bruised & Battered;Denji;Hybrid;Male;You gonna be training us, Ms. Makima?!
+977;1;10;Bruised & Battered;Makima;Devil;Female;Unfortunately, I'm going to be too busy, so I'm introducing you to the perfect teacher. He's going to be training you two. His name is...
+978;1;10;Bruised & Battered;Kishibe;Human;Male;Shut it. Now, answer my questions: How'd you feel about your comrades dying?
+979;1;10;Bruised & Battered;Denji;Hybrid;Male;Okay, I guess?
+980;1;10;Bruised & Battered;Power;Fiend;Female;I thought, "They've died!"
+981;1;10;Bruised & Battered;Kishibe;Human;Male;You want revenge?
+982;1;10;Bruised & Battered;Denji;Hybrid;Male;Nah, that shit's depressing.
+983;1;10;Bruised & Battered;Power;Fiend;Female;Verily!
+984;1;10;Bruised & Battered;Kishibe;Human;Male;Humans or devils: Which side are you on?
+985;1;10;Bruised & Battered;Denji;Hybrid;Male;Whichever one's gonna take care of me.
+986;1;10;Bruised & Battered;Power;Fiend;Female;Whichever one is winning.
+987;1;10;Bruised & Battered;Kishibe;Human;Male;You two... Get full points. You're a rare breed, and that is fantastic. I love it.
+988;1;10;Bruised & Battered;Power;Fiend;Female;I am frightened.
+989;1;10;Bruised & Battered;Kishibe;Human;Male;Makima, you head on back. I'm starting with them right now.
+990;1;10;Bruised & Battered;Makima;Devil;Female;I'll leave you to it, then.
+991;1;10;Bruised & Battered;Denji;Hybrid;Male;Ms. Makima?!
+992;1;10;Bruised & Battered;Kishibe;Human;Male;I'm a Devil Hunter from Special Division 1. I love it when people call me "teacher," so that's what you're gonna call me. I also love booze, women, and killing devils.
+993;1;10;Bruised & Battered;Power;Fiend;Female;C-Can't stand...
+994;1;10;Bruised & Battered;Kishibe;Human;Male;You two are biologically the same as us. A broken neck means not being able to move. What sets you apart...
+995;1;10;Bruised & Battered;Power;Fiend;Female;I smell blood!
+996;1;10;Bruised & Battered;Kishibe;Human;Male;...is that with a little blood, you're right as rain again.
+997;1;10;Bruised & Battered;Denji;Hybrid;Male;Damn it... What the hell was that, man?!
+998;1;10;Bruised & Battered;Kishibe;Human;Male;Makima asked me to train you two up. Not sure why, but the Gun Devil seems to be after your heart, so the fact that you're a scrub who gets his ass kicked a lot is a problem.
+999;1;10;Bruised & Battered;Power;Fiend;Female;Why did you crush us like that?!
+1000;1;10;Bruised & Battered;Kishibe;Human;Male;I've trained humans before, but devils are a new deal for me. I was knocking back drinks while trying to figure it out. And then... My boozy brain came up with a flash of insight. I'm the best Devil Hunter there is. Any devil that can beat me would be the strongest devil. So, until you're strong enough to beat me... I'll be hunting the two of you.
+1001;1;10;Bruised & Battered;Power;Fiend;Female;His brain is diseased!
+1002;1;10;Bruised & Battered;Denji;Hybrid;Male;Right?
+1003;1;10;Bruised & Battered;Kishibe;Human;Male;Let's get back to it, then.
+1004;1;10;Bruised & Battered;Denji;Hybrid;Male;Drunk old bastard or not, they'll still come after us if we kill him.
+1005;1;10;Bruised & Battered;Power;Fiend;Female;Denji!
+1006;1;10;Bruised & Battered;Kishibe;Human;Male;The boy's immortal. And the Fiend's mostly immortal. No hesitation about bashing someone's head in... You two have no rights here. When I was little, I used to break my toys a lot, because I was too strong. Always wanted toys that could take a beating. With my help, you're gonna be a pair of serious badasses.
+1007;1;10;Bruised & Battered;Aki;Human;Male;Kon.
+1008;1;10;Bruised & Battered;Yutaro Kurose;Human;Male;See? A no-show. The Fox Devil is mad at you for having it bite off too much. Probably won't help you out ever again. That sword's from the Curse Devil, right? How many more times can you use it?
+1009;1;10;Bruised & Battered;Aki;Human;Male;Is this what you meant by coaching?
+1010;1;10;Bruised & Battered;Yutaro Kurose;Human;Male;Glad to see you're quick to catch on.
+1011;1;10;Bruised & Battered;Michiko Tendo;Human;Female;We're here to provide job consultation with the human members of the Special Division. Rude as this might sound, don't you think this is a good time to hang it up? There's already someone from your division that's gone private.
+1012;1;10;Bruised & Battered;Yutaro Kurose;Human;Male;If you're serious about staying on board, you're gonna need to make certain sacrifices.
+1013;1;10;Bruised & Battered;Aki;Human;Male;Sacrifices?
+1014;1;10;Bruised & Battered;Yutaro Kurose;Human;Male;Yep, sacrifices.
+1015;1;10;Bruised & Battered;Michiko Tendo;Human;Female;You stick around, seems like you're gonna need contracts with even stronger devils so you can actually contribute.
+1016;1;10;Bruised & Battered;Yutaro Kurose;Human;Male;You can quit Public Safety and enjoy however long you've got left, or stay on and go through real hell.
+1017;1;10;Bruised & Battered;Aki;Human;Male;The devils that killed my family and my partner are still out there. So why exactly would I quit?
+1018;1;10;Bruised & Battered;Yutaro Kurose;Human;Male;All right, then. Understood. Well, it's late today, so we'll head back for now. Be back tomorrow with the paperwork. Looks like our seniors in Kyoto knew what they were talking about. Everyone who works in the Special Division is crazy, so watch yourself." You might wanna try and take an objective look at where you're standing. Looks like you've got a lady here to visit you. Well, pardon us.
+1019;1;10;Bruised & Battered;Kishibe;Human;Male;I'm heading home to get some sleep. I'll be dropping by your place tomorrow.
+1020;1;10;Bruised & Battered;Power;Fiend;Female;Is your brain not sorted out yet?! Heal! Heal! Heal, heal, heal, heal damn you! Heal!
+1021;1;10;Bruised & Battered;Denji;Hybrid;Male;How many times did I die today?!
+1022;1;10;Bruised & Battered;Power;Fiend;Female;Over twenty times. Although I was usually unconscious every time you were dead, so I cannot be sure. The old fool is too fearsome.
+1023;1;10;Bruised & Battered;Denji;Hybrid;Male;If this keeps up, it's gonna suck all the fun out of life. I was working hard because I wanted to enjoy living, so having to deal with this is total bullshit.
+1024;1;10;Bruised & Battered;Power;Fiend;Female;Shall we flee?
+1025;1;10;Bruised & Battered;Denji;Hybrid;Male;Public Safety's gonna come after us if we do, and this time we'll get the for-real devil treatment. That drunk asshole... Can't believe he's treating us like toys. It's seriously pissing me off.
+1026;1;10;Bruised & Battered;Power;Fiend;Female;I have it!
+1027;1;10;Bruised & Battered;Denji;Hybrid;Male;Have what?
+1028;1;10;Bruised & Battered;Power;Fiend;Female;How to defeat him! As fierce as he may be, ultimately, his mind is addled by spirits! We need only use our heads to overcome him!
+1029;1;10;Bruised & Battered;Denji;Hybrid;Male;I get you. I been thinking lately about how cool it'd be if I could fight like one of those smart characters in a manga!
+1030;1;10;Bruised & Battered;Power;Fiend;Female;We shall slaughter him in the war of wits!
+1031;1;10;Bruised & Battered;Denji;Hybrid;Male;Damn, I'm feeling smarter already!
+1032;1;10;Bruised & Battered;Power;Fiend;Female;You as well, eh? I've come up with 100 plans already!
+1033;1;10;Bruised & Battered;Denji;Hybrid;Male;Dude, if we put our heads together... I mean, it'd be harder for us to lose then, right?
+1034;1;10;Bruised & Battered;Power;Fiend;Female;Now he shall be our plaything!
+1035;1;10;Bruised & Battered;Kishibe;Human;Male;I think they live around here...
+1036;1;10;Bruised & Battered;Power;Fiend;Female;The scent of this blood... The old souse has arrived.
+1037;1;10;Bruised & Battered;Denji;Hybrid;Male;If he wants to ruin our lives, then he gets to die.
+1038;1;10;Bruised & Battered;Power;Fiend;Female;Let the highly cerebral warfare begin.
+1039;1;10;Bruised & Battered;Kishibe;Human;Male;A blood weapon, huh? And aimed at the head. So, it's an ambush. I guess the idea is they're hunting me this time.
+1040;1;10;Bruised & Battered;Denji;Hybrid;Male;Yee-ow...
+1041;1;10;Bruised & Battered;Kishibe;Human;Male;That was your best effort so far. I guess prey will use its head when it's cornered. Keep at it. You lost for two reasons this time. Using so much blood to fight leaves Power anemic, and you didn't see my attack coming, Denji. This was a good try, though, so let's call it a day. I'm going out for drinks.
+1042;1;10;Bruised & Battered;Denji;Hybrid;Male;Powy... He said we're done for today.
+1043;1;10;Bruised & Battered;Power;Fiend;Female;How lucky we are...
+1044;1;10;Bruised & Battered;Denji;Hybrid;Male;Huh?
+1045;1;10;Bruised & Battered;Kishibe;Human;Male;Beasts shouldn't trust anything a hunter says.
+1046;1;10;Bruised & Battered;Yutaro Kurose;Human;Male;Making a deal with a stronger devil is probably gonna mean a pretty demanding contract, but we're not doing this to mess with you, all right, Aki?
+1047;1;10;Bruised & Battered;Michiko Tendo;Human;Female;You'll be jumping into a lion's cage when you get back to work. That means you'll need a weapon to protect yourself, y'know?
+1048;1;10;Bruised & Battered;Yutaro Kurose;Human;Male;This is where the devils that Public Safety captures alive are kept. Let's find you the right weapon. It's none of my business, but was that pretty lady your girlfriend?
+1049;1;10;Bruised & Battered;Michiko Tendo;Human;Female;Again with this? Mind your own business.
+1050;1;10;Bruised & Battered;Aki;Human;Male;She was my partner's younger sister.
+1051;1;10;Bruised & Battered;Yutaro Kurose;Human;Male;Oof... She let you have it?
+1052;1;10;Bruised & Battered;Aki;Human;Male;No... She gave me a letter.
+1053;1;10;Bruised & Battered;Michiko Tendo;Human;Female;A letter?
+1054;1;10;Bruised & Battered;Himeno's Sister;Human;Female;This is a letter my sister sent to me. I'm giving it to you because I think you should read it.
+1055;1;10;Bruised & Battered;Himeno;Human;Female;Is Dad feeling any better? The job pays pretty well so don't worry about sending food or anything. Dad's been messaging me lately. I appreciate his concern, but I'm more worried about him. Is he taking his meds? I forced Aki to get his ear pierced. If nothing else, we could go private instead of staying in Public Safety. How do I get Aki to quit? I brought it up, but he just brushed it off. I don't think it's a good idea to keep working here. If nothing else, we could go private instead of staying in Public Safety. How do I get Aki to quit? I brought it up, but he just brushed it off. I was trying to be serious, too.
+1056;1;11;Mission Start;Yutaro Kurose;Human;Male;You're gonna contract with the devil in this room, Aki. It's the Future Devil. There are two people in Public Safety that have contracts with it. One had to give up half their lifespan... The other gave both their eyes, along with their sense of taste and smell. Hopefully it likes you, and you'll get a bargain. Well, go right on in.
+1057;1;11;Mission Start;Future Devil;Devil;Devil;The future rules. The future rules... The future rules! Yeah, yeah! The future rules! The future rules! You shout, "The future rules," too! Come on!
+1058;1;11;Mission Start;Aki;Human;Male;I'm here to make a deal with you. Tell me what you want from me.
+1059;1;11;Mission Start;Future Devil;Devil;Devil;You've got a real shitty attitude, man! Whatever. Let's take a peek at that future! What I see will help me decide on the trade. Stick your head into my gut already! How else am I supposed to see your future? Here's how it's gonna work: I'm gonna live inside your right eye. That way, I can lend you my power. That look is asking, "Is that really all?" Well, the reason is: Your death in the future will fucking rule. Wanna know how it happens? You're gonna—
+1060;1;11;Mission Start;Aki;Human;Male;Doesn't matter. I'm not interested in how I die, as long as I can kill my targets. The rest doesn't matter. Now, get in my eye.
+1061;1;11;Mission Start;Kishibe;Human;Male;Okay. You get full points for your moves on that one. We don't need to do this every day from now on. Let's cut back to once a week.
+1062;1;11;Mission Start;Denji;Hybrid;Male;Aw, yeah...
+1063;1;11;Mission Start;Power;Fiend;Female;We did it...
+1064;1;11;Mission Start;Kishibe;Human;Male;You've gotta make sure your brain keeps its cool, even when you're feeling high. Never forget your situation, and the weapons available to you. Tomorrow, we're gonna try some live combat with an eye toward training.
+1065;1;11;Mission Start;Power;Fiend;Female;What manner of combat?
+1066;1;11;Mission Start;Kishibe;Human;Male;We're all gonna grab the Snake Devil woman and Samurai Sword that got Himeno and the others. It's gonna be the rollout of the all-new Division 4. If the op goes bad, the division is done for. Which means you two get disposed of in a for-real battle with me.
+1067;1;11;Mission Start;Denji;Hybrid;Male;If it comes to that, I'll show some mercy and let you live, teach. You made me stronger, after all. I can kill more devils because of you. And that means I've got my ticket to hooking up with Makima!
+1068;1;11;Mission Start;Makima;Devil;Female;I appreciate you making the time for this, with your busy schedule. I hope you'll continue to instruct Denji and Power.
+1069;1;11;Mission Start;Kishibe;Human;Male;I'm sick of them already. Whenever the hunting dogs I train end up dead, I find myself drinking more. I figured I wouldn't mind what happened to a pair of toys, but... Must be old age. Now I'm even getting attached to them.
+1070;1;11;Mission Start;Makima;Devil;Female;You mentioned that you wanted to discuss something?
+1071;1;11;Mission Start;Kishibe;Human;Male;The assault that hit the Special Division. Public Safety isn't exactly clueless. You knew it was going to happen, and didn't try to stop it, right?
+1072;1;11;Mission Start;Makima;Devil;Female;I came under attack too, remember?
+1073;1;11;Mission Start;Kishibe;Human;Male;I don't care what fucked up shit you have cooking, or how many of my hunting dogs you get killed. You get a pass as long as you're serving mankind's interests. But only in that case.
+1074;1;11;Mission Start;Makima;Devil;Female;All I want is to save as many people as possible from devils. If this operation is a success, Division 4's existence will actively become part of the public record. That'll give us more freedom, and we'll be able to save even more people from devils.
+1075;1;11;Mission Start;Kishibe;Human;Male;You liar.
+1076;1;11;Mission Start;Henchmen 1;Human;Male;The boss has got a separate team escorting him. We should move you, too.
+1077;1;11;Mission Start;Akane Sawatari;Human;Female;Nowhere in Japan is safe, as long as Makima's alive. We're ready for them if they strike here. So, pipe down.
+1078;1;11;Mission Start;Henchmen 2;Human;Male;Shut up, bitch!
+1079;1;11;Mission Start;Henchmen 1;Human;Male;Sir...
+1080;1;11;Mission Start;Katana Man;Hybrid;Male;Granddad would've never let us run. Besides, that piece of shit Denji is in Division 4. I'm gonna carve out his heart next time.
+1081;1;11;Mission Start;Akane Sawatari;Human;Female;The rest of you don't need to worry about the big guy. Even if he dies, he can be brought back. But if you're staying here, you need to be careful about getting bitten.
+1082;1;11;Mission Start;Henchmen 3;Human;Male;Bitten?
+1083;1;11;Mission Start;Henchmen 4;Human;Male;What're you talking about?
+1084;1;11;Mission Start;Katana Man;Hybrid;Male;We've got a secret weapon stored below us. A little parting gift from Granddad... An army of zombies made up of deadbeats who couldn't pay their debts.
+1085;1;11;Mission Start;Akane Sawatari;Human;Female;A human who gets bitten by a zombie becomes a zombie. We'll use them to finish Division 4 off.
+1086;1;11;Mission Start;Yutaro Kurose;Human;Male;We're gonna do a bit of sightseeing and then head back to Kyoto. We'll probably never meet again, so there's something I wanted to ask you. I've heard you're after the Gun Devil, Aki. You seriously think you can kill that thing? You just lost to folks who managed to kill around 20 Public Safety agents. And you think you've got a shot against a freak who took down millions of people all over the world? To be honest, we ended up in Public Safety because of a beef with the Gun Devil, too. But we're not trying to kill it. Just gotta think for a second to realize how impossible that is. If I'm being real, just looking at you kinda pisses me off, Aki. Weak as you are, you go around with this hotshot goal, like some kinda manga character. It's so lame, it gives me goosebumps. Literally. Can you see them?
+1087;1;11;Mission Start;Michiko Tendo;Human;Female;Sure can't.
+1088;1;11;Mission Start;Aki;Human;Male;I really don't care what you have to say. You can sit back and watch. And if I lose and end up dead, go ahead and laugh. I know I'm not being realistic about what I can accomplish right now. But I also know that I couldn't keep going, any other way. I appreciate your help.
+1089;1;11;Mission Start;Yutaro Kurose;Human;Male;Hey, Aki! You might piss me off, but I'm rooting for you. So here's one last bit of advice: Everyone who works in the Special Division is crazy, so watch yourself!"
+1090;1;11;Mission Start;Yakuza Boss;Human;Male;We've got a guest from Public Safety. Get the good stuff for her.
+1091;1;11;Mission Start;Makima;Devil;Female;Thank you for your cooperation.
+1092;1;11;Mission Start;Yakuza Boss;Human;Male;Well, I heard about our younger guys popping off in Tokyo. I figure I owe you any answers I've got. I want you to understand that it wasn't on my orders. From what I've heard, this Sawatari woman's the one behind it. She was the contact that hooked these kids into deals involving the Gun Devil.
+1093;1;11;Mission Start;Makima;Devil;Female;What kind of deals?
+1094;1;11;Mission Start;Yakuza Boss;Human;Male;They give the Gun Devil 20,000 yen, and they get guns and ammo in exchange. Fancy that, devils needing money. They're not so different from us, after all.
+1095;1;11;Mission Start;Makima;Devil;Female;I need you write down the names of everyone in your organization that has a contract with the Gun Devil.
+1096;1;11;Mission Start;Yakuza Boss;Human;Male;Yeah, no problem. Throw them in the slammer for a while, give them something to think about.
+1097;1;11;Mission Start;Makima;Devil;Female;I'll also need the names from other families, as well. Not just yours.
+1098;1;11;Mission Start;Yakuza Boss;Human;Male;Miss, you're not getting the big picture here. If I did that, and the other families found out, it'd mean war. It'd be real stupid.
+1099;1;11;Mission Start;Makima;Devil;Female;It's for the safety of the public. I'm requesting your cooperation.
+1100;1;11;Mission Start;Yakuza Boss;Human;Male;You ever hear the term necessary evil before, miss? What happens if we end up wiping each other out? All it does is open up Japan to foreign mafia. I'm not gonna deny that we get up to bad business. But the Chinese and Soviet mobs make us look like angels. And we're the ones keeping them away. Just like how Devil Hunters keep people safe from devils... The yakuza are keeping Japan safe from foreigners. Though I hear there's a lot of uneducated types in your line of work, so maybe you just don't get it. It's gonna take more than a bribe to get me to snitch, lady.
+1101;1;11;Mission Start;Makima;Devil;Female;This isn't money. It's a collection of things that belong to associates of everyone here. Parents, grandparents, siblings, lovers, wives... Their eyes.
+1102;1;11;Mission Start;Yakuza Boss;Human;Male;Eyes?
+1103;1;11;Mission Start;Makima;Devil;Female;Please, relax. Public Safety has someone who can return these safely. In exchange for your cooperation, I can introduce you.
+1104;1;11;Mission Start;Yakuza 2;Human;Male;You bitch—
+1105;1;11;Mission Start;Makima;Devil;Female;When you talk about "necessary evil," you're using that term to justify the evil acts you commit. Society doesn't need your excuses. It's not a true necessary evil unless the nation itself is holding the leash and maintaining control.
+1106;1;11;Mission Start;Akane Sawatari;Human;Female;The police and Devil Extermination Division 2 have the basement and first entrances floor surrounded. They're leaving the actual raid to Special Division 4. We're going to kill as many of them as possible, and steal Denji's heart. If we use Snake after that's done, the two of us should make it out of here okay.
+1107;1;11;Mission Start;Katana Man;Hybrid;Male;I'm gonna kill Denji.
+1108;1;11;Mission Start;Akane Sawatari;Human;Female;Don't get too worked up.
+1109;1;11;Mission Start;Kobeni;Human;Female;I wanna go home.
+1110;1;11;Mission Start;Denji;Hybrid;Male;So why don't you, then? After all that training I did... I'm gonna slaughter Sideburns Man!
+1111;1;11;Mission Start;Power;Fiend;Female;Our minds have been honed, after all! This shall prove a simple matter!
+1112;1;11;Mission Start;Kobeni;Human;Female;I hate this.
+1113;1;11;Mission Start;Aki;Human;Male;What's the plan?
+1114;1;11;Mission Start;Kishibe;Human;Male;No plan. The entire Special Division goes in.
+1115;1;11;Mission Start;Shiina;Human;Male;Excuse me? I'm Shiina, with the Kanagawa prefectural PD.
+1116;1;11;Mission Start;Furuno;Human;Male;I'm Furuno, with Devil Extermination Division 2.
+1117;1;11;Mission Start;Kishibe;Human;Male;Name's Kishibe. I'm Captain of Special Division 4. The police and Division 2 just need to keep the entrances to the first floor and basement sealed off. The Special Division will take out the terrorists inside. There's one thing you need to be careful about, though: Special Division 4 is comprised almost entirely of non-humans. If any of them get loose in the city, it'll mean worse casualties than the terrorists could've caused. I'm gonna explain their unique characteristics, because you need to be prepared to engage with them. Not the terrorists.
+1118;1;11;Mission Start;Beam;Fiend;Male;Zombies! Zombies! It's all-I-can-eat!
+1119;1;11;Mission Start;Kishibe;Human;Male;There's the Shark Fiend. He can swim inside any surface, including walls and floors. He can also transform into his devil form for brief periods of time.
+1120;1;11;Mission Start;Violence Fiend;Fiend;Male;Oh, sorry about that! Since you went for a bite, I thought you were a zombie!
+1121;1;11;Mission Start;Kishibe;Human;Male;The Violence Fiend. Normally, becoming a Fiend makes a devil weaker than they were... But even as a Fiend, this one's dangerous enough that we make the Violence Fiend wear a mask that dispenses poison gas. That mask stays on, no matter what.
+1122;1;11;Mission Start;Violence Fiend;Fiend;Male;Hey, lady? You might wanna run for it. If these guys bite humans, they turn into zombies. Oh! You're a devil, huh?
+1123;1;11;Mission Start;Kishibe;Human;Male;The Spider Devil. Most of the time she assumes a human form. Humanoid devils tend to be friendly, but at the end of the day, they're still devils. They'll kill you for looking at them funny.
+1124;1;11;Mission Start;Angel Devil;Devil;Male;Ugh... it got on my shoes. This seriously sucks.
+1125;1;11;Mission Start;Kishibe;Human;Male;The Angel Devil. Bit of a special case: No enmity towards humans, but you'll wanna keep your distance. Physical contact means your lifespan gets drained away.
+1126;1;11;Mission Start;Angel Devil;Devil;Male;Hey, can I ask you something? You got a handkerchief I could borrow? I'm impressed you came this close, since I can shorten your life with a touch.
+1127;1;11;Mission Start;Aki;Human;Male;It's okay so long as material breaks the contact, right?
+1128;1;11;Mission Start;Angel Devil;Devil;Male;Ow, ow...
+1129;1;11;Mission Start;Aki;Human;Male;Devil, take this one outside.
+1130;1;11;Mission Start;Angel Devil;Devil;Male;He gave me an order... But I'll take that over fighting, I guess.
+1131;1;11;Mission Start;Aki;Human;Male;You two. We'll let the Fiends handle this. Let's find Samurai Sword and the Snake woman.
+1132;1;11;Mission Start;Denji;Hybrid;Male;You know where to look or something?
+1133;1;11;Mission Start;Aki;Human;Male;No. We'll split up, and search. Come along quietly—
+1134;1;11;Mission Start;Akane Sawatari;Human;Female;Snake: Spit it out.
+1135;1;11;Mission Start;Aki;Human;Male;Damn it...
+1136;1;11;Mission Start;Akane Sawatari;Human;Female;Ghost. Kill him. Looks like he's gotten a little better...
+1137;1;11;Mission Start;Future Devil;Devil;Devil;If you use my power, you'll be able to peek a bit into the future. But that's all.
+1138;1;11;Mission Start;Akane Sawatari;Human;Female;Choke him to death.
+1139;1;12;Katana vs. Chainsaw;Himeno;Human;Female;Just one.
+1140;1;12;Katana vs. Chainsaw;Aki;Human;Male;I'm not smoking. It's bad for your bones.
+1141;1;12;Katana vs. Chainsaw;Himeno;Human;Female;I wish you would. I get the feeling we're gonna be together for a while.
+1142;1;12;Katana vs. Chainsaw;Aki;Human;Male;Just one, then. This is the first and last cigarette I ever light up.
+1143;1;12;Katana vs. Chainsaw;Himeno;Human;Female;Yes! Let me get that for you.
+1144;1;12;Katana vs. Chainsaw;Aki;Human;Male;You're kind of awful, making someone who's underage smoke.
+1145;1;12;Katana vs. Chainsaw;Himeno;Human;Female;You're underage?!
+1146;1;12;Katana vs. Chainsaw;Aki;Human;Male;Yeah...
+1147;1;12;Katana vs. Chainsaw;Himeno;Human;Female;Well, you obviously can't smoke, then! Hand it over. I'll hang onto this one for you, then. Once you grow up and you're ready to develop an addiction, I'll give it back.
+1148;1;12;Katana vs. Chainsaw;Aki;Human;Male;The Ghost Devil doesn't have eyes, so it uses fear to see. Himeno explained that to me. Himeno... I'll be with you soon.
+1149;1;12;Katana vs. Chainsaw;Akane Sawatari;Human;Female;Snake—
+1150;1;12;Katana vs. Chainsaw;Aki;Human;Male;Don't kill her. Kobeni, why'd you stay with Public Safety?
+1151;1;12;Katana vs. Chainsaw;Kobeni;Human;Female;Bonuses are coming up soon, so...
+1152;1;12;Katana vs. Chainsaw;Denji;Hybrid;Male;Barf!
+1153;1;12;Katana vs. Chainsaw;Power;Fiend;Female;Meat is meat! It matters not if it is porcine, bovine, or human!
+1154;1;12;Katana vs. Chainsaw;Denji;Hybrid;Male;It sure as hell does! We're here to catch that Samurai Sword dude. You better not try to eat him when we do. Damn it... They haven't noticed us. Don't make any noise.
+1155;1;12;Katana vs. Chainsaw;Power;Fiend;Female;I am the one called Power! These, I can defeat. Have at thee! After me, Denji! I entrust my back to you! How's that?! What say you now?! I have not fled! I am proud! I am beautiful! A fierce foe... Denji! Bear witness, and then speak of this day! For it is Power who is the greatest of all!
+1156;1;12;Katana vs. Chainsaw;Denji;Hybrid;Male;Found you, Sideburns Man.
+1157;1;12;Katana vs. Chainsaw;Katana Man;Hybrid;Male;Hold up a second, will you? Let's have a chat. Depending on how you play this, we're willing to turn ourselves in. We just want satisfaction, you get it? Denji... you killed their friends, and my granddad. We just want you to atone for that.
+1158;1;12;Katana vs. Chainsaw;Denji;Hybrid;Male;I only killed their pals and your grandpa because they turned into zombies, dude.
+1159;1;12;Katana vs. Chainsaw;Katana Man;Hybrid;Male;Don't you fucking lie! Dumbass little shits like you always try and lie! Y'know what? Fine. Even if that's true... Those zombies used to be people, too. You seriously don't feel bad, after killing them?
+1160;1;12;Katana vs. Chainsaw;Denji;Hybrid;Male;Sure don't.
+1161;1;12;Katana vs. Chainsaw;Katana Man;Hybrid;Male;Sawatari's put me through the ringer, too. Apparently my heart was replaced with the Katana Devil. But even I have trouble sleeping on nights when I've accidentally killed zombies, man. Looks like you're the only one whose heart's not human anymore. If you've got any kind of conscience left... Just let us kill you.
+1162;1;12;Katana vs. Chainsaw;Denji;Hybrid;Male;Nah.
+1163;1;12;Katana vs. Chainsaw;Katana Man;Hybrid;Male;Okay. Then I'm gonna cut you to pieces!
+1164;1;12;Katana vs. Chainsaw;Denji;Hybrid;Male;Go ahead and try, dumbass!
+1165;1;12;Katana vs. Chainsaw;Katana Man;Hybrid;Male;What?!
+1166;1;12;Katana vs. Chainsaw;Denji;Hybrid;Male;I thought you were gonna cut me up! How about it?!
+1167;1;12;Katana vs. Chainsaw;Katana Man;Hybrid;Male;Die!
+1168;1;12;Katana vs. Chainsaw;Denji;Hybrid;Male;Damn it...
+1169;1;12;Katana vs. Chainsaw;Katana Man;Hybrid;Male;You're looking sharper than before... Denji, what are you even fighting for?
+1170;1;12;Katana vs. Chainsaw;Denji;Hybrid;Male;To protect the life I've got now, I guess?
+1171;1;12;Katana vs. Chainsaw;Katana Man;Hybrid;Male;Public Safety got you living the good life, is that it?
+1172;1;12;Katana vs. Chainsaw;Denji;Hybrid;Male;Gotta put up with a nag and a brat... But I like it pretty good. Which is why I've gotta kick your ass, so Ms. Makima will praise me.
+1173;1;12;Katana vs. Chainsaw;Katana Man;Hybrid;Male;You can't beat me, man.
+1174;1;12;Katana vs. Chainsaw;Denji;Hybrid;Male;What, you think you've got me beat already? I ain't dead yet!
+1175;1;12;Katana vs. Chainsaw;Katana Man;Hybrid;Male;You trash!
+1176;1;12;Katana vs. Chainsaw;Denji;Hybrid;Male;Where the hell is he?
+1177;1;12;Katana vs. Chainsaw;Train Conductor;Human;Male;Due to an incident in one of the cars,
+1178;1;12;Katana vs. Chainsaw;Denji;Hybrid;Male;Get... off!
+1179;1;12;Katana vs. Chainsaw;Train Conductor;Human;Male;the train will now come to an emergency stop. The doors will open, so please evacuate in an orderly fashion. I repeat, due to an incident in one of the cars...
+1180;1;12;Katana vs. Chainsaw;Denji;Hybrid;Male;Aw, come on, dude! Look... can we ban that move? Seriously.
+1181;1;12;Katana vs. Chainsaw;Katana Man;Hybrid;Male;Keep yapping. You're done. Can't even fight anymore. How about it, Denji? Care to apologize for killing Granddad before you die?
+1182;1;12;Katana vs. Chainsaw;Denji;Hybrid;Male;I can still fight. I've still got a chainsaw on my head!
+1183;1;12;Katana vs. Chainsaw;Katana Man;Hybrid;Male;Dumbass! Didn't Granddad teach you... About when to know when you're beat? Beg for his forgiveness, and I'll make it quick.
+1184;1;12;Katana vs. Chainsaw;Denji;Hybrid;Male;You went right after my head... Thanks for that, dipshit! Didn't the geezer teach you... that beasts shouldn't trust anything a hunter says?! Guess you're awake. You really are like me, huh? Pulled that katana out of your arm, and the halves of your body stuck back together.
+1185;1;12;Katana vs. Chainsaw;Katana Man;Hybrid;Male;I'll kill you... You're fucking dead!
+1186;1;12;Katana vs. Chainsaw;Denji;Hybrid;Male;Losers sure love to make noise, huh? We've got a while until the cops show up to grab you. And to be honest, I'm not really satisfied yet. You killed Himeno. That's one less hot lady in the world, thanks to your stupid ass. But you don't seem to care, and you'll get to spend the rest of your life in jail. How am I supposed to deal with that?
+1187;1;12;Katana vs. Chainsaw;Katana Man;Hybrid;Male;Not like you can do anything about it. You're just Public Safety's lapdog!
+1188;1;12;Katana vs. Chainsaw;Denji;Hybrid;Male;We're about to have us a contest.
+1189;1;12;Katana vs. Chainsaw;Aki;Human;Male;Contest?
+1190;1;12;Katana vs. Chainsaw;Denji;Hybrid;Male;Hey, great timing.
+1191;1;12;Katana vs. Chainsaw;Aki;Human;Male;This is Hayakawa from Division 4. Target is restrained on the train tracks in front of the clock tower. Requesting backup.
+1192;1;12;Katana vs. Chainsaw;Denji;Hybrid;Male;You wanna get in on this, too, Hayakawa? It's gonna be the best contest ever.
+1193;1;12;Katana vs. Chainsaw;Aki;Human;Male;What the hell are you talking about?
+1194;1;12;Katana vs. Chainsaw;Denji;Hybrid;Male;See, he shot at Himeno... So I figure we get to take shots at him. That's why we'll make it a contest. We take turns giving him nut shots, and whoever gets him to scream the loudest before the cops show up is the winner.
+1195;1;12;Katana vs. Chainsaw;Katana Man;Hybrid;Male;What are you, psycho?!
+1196;1;12;Katana vs. Chainsaw;Denji;Hybrid;Male;You in or what?
+1197;1;12;Katana vs. Chainsaw;Aki;Human;Male;Our job is to catch this guy. Not torture him to make ourselves feel better. It's not like Himeno would've wanted that.
+1198;1;12;Katana vs. Chainsaw;Denji;Hybrid;Male;That right?
+1199;1;12;Katana vs. Chainsaw;Aki;Human;Male;So... What do I get if I win?
+1200;1;12;Katana vs. Chainsaw;Denji;Hybrid;Male;His family jewels, of course!
+1201;1;12;Katana vs. Chainsaw;Katana Man;Hybrid;Male;Hey... Hang on, hang on! Don't do it, come on—
+1202;1;12;Katana vs. Chainsaw;Aki;Human;Male;Himeno... Can you hear this up in heaven? We're playing a requiem for you.
+1203;1;12;Katana vs. Chainsaw;Makima;Devil;Female;These terrorist attacks were arranged by Akane Sawatari, a Devil Hunter formerly from the private sector. She had a contract with the Gun Devil, and distributed guns to the yakuza. In exchange, Sawatari was told to recover the Chainsaw Devil's heart.
+1204;1;12;Katana vs. Chainsaw;Public Safety Executive 3;Human;Male;And why exactly was Sawatari after the Chainsaw Devil's heart?
+1205;1;12;Katana vs. Chainsaw;Makima;Devil;Female;Before we were able to question her...
+1206;1;12;Katana vs. Chainsaw;Public Safety Executive 3;Human;Male;Suicide?
+1207;1;12;Katana vs. Chainsaw;Makima;Devil;Female;Triggered automatically by the terms of her contract with the Gun Devil, maybe. We were able to recover 1.4 kilograms of Gun Devil flesh from the building. After combining that with the five kilograms held by Public Safety, the flesh chunk has finally begun to move toward the main body.
+1208;1;12;Katana vs. Chainsaw;Public Safety Executive 3;Human;Male;Then the time has come... Where is it headed toward?
+1209;1;12;Katana vs. Chainsaw;Denji;Hybrid;Male;I have this dream all the time. I always have it, and then I always forget it.
+1210;1;12;Katana vs. Chainsaw;Pochita;Devil;Devil;Denji.
+1211;1;12;Katana vs. Chainsaw;Denji;Hybrid;Male;Pochita? Pochita, come on out! I can at least pet you in a dream.
+1212;1;12;Katana vs. Chainsaw;Pochita;Devil;Devil;Denji. You can't open that door.
+1213;1;12;Katana vs. Chainsaw;Reze;Hybrid;Female;Tell me, Denji... Between the country mouse and the city mouse... Which would you rather be?

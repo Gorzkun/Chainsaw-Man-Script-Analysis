@@ -1,0 +1,851 @@
+{
+  "nodes": [
+    {
+      "name":  "Denji",
+      "value":  97,
+      "colour":  "#EEAD0E"
+    },
+    {
+      "name":  "Akane Sawatari",
+      "value":  11,
+      "colour":  "#8B8878"
+    },
+    {
+      "name":  "Aki",
+      "value":  79,
+      "colour":  "#696969"
+    },
+    {
+      "name":  "Aki's Dad",
+      "value":  1,
+      "colour":  "#66CD00"
+    },
+    {
+      "name":  "Aki's Mom",
+      "value":  1,
+      "colour":  "#FFD39B"
+    },
+    {
+      "name":  "Angel Devil",
+      "value":  2,
+      "colour":  "#FFD39B"
+    },
+    {
+      "name":  "Bat Devil",
+      "value":  5,
+      "colour":  "#FFD39B"
+    },
+    {
+      "name":  "Beam",
+      "value":  1,
+      "colour":  "#8B8878"
+    },
+    {
+      "name":  "Convict 1",
+      "value":  2,
+      "colour":  "#8B8878"
+    },
+    {
+      "name":  "Convict 2",
+      "value":  2,
+      "colour":  "#98F5FF"
+    },
+    {
+      "name":  "Curse Devil",
+      "value":  2,
+      "colour":  "#FFB6C1"
+    },
+    {
+      "name":  "Devil Hunter 1",
+      "value":  2,
+      "colour":  "#66CD00"
+    },
+    {
+      "name":  "Devil Hunter 2",
+      "value":  1,
+      "colour":  "#98F5FF"
+    },
+    {
+      "name":  "Devil Hunter 4",
+      "value":  1,
+      "colour":  "#FFB6C1"
+    },
+    {
+      "name":  "Division 4 Female Member",
+      "value":  3,
+      "colour":  "#FFB6C1"
+    },
+    {
+      "name":  "Division 4 Male Member",
+      "value":  2,
+      "colour":  "#FFD39B"
+    },
+    {
+      "name":  "Eternity Devil",
+      "value":  7,
+      "colour":  "#FFB6C1"
+    },
+    {
+      "name":  "Fox Devil",
+      "value":  2,
+      "colour":  "#8B8878"
+    },
+    {
+      "name":  "Furuno",
+      "value":  2,
+      "colour":  "#98F5FF"
+    },
+    {
+      "name":  "Fushi",
+      "value":  4,
+      "colour":  "#8B8878"
+    },
+    {
+      "name":  "Future Devil",
+      "value":  2,
+      "colour":  "#FFB6C1"
+    },
+    {
+      "name":  "Ghost Devil",
+      "value":  1,
+      "colour":  "#66CD00"
+    },
+    {
+      "name":  "Henchmen 1",
+      "value":  1,
+      "colour":  "#FFD39B"
+    },
+    {
+      "name":  "Henchmen 2",
+      "value":  1,
+      "colour":  "#8B8878"
+    },
+    {
+      "name":  "Henchmen 3",
+      "value":  1,
+      "colour":  "#98F5FF"
+    },
+    {
+      "name":  "Henchmen 4",
+      "value":  1,
+      "colour":  "#FFB6C1"
+    },
+    {
+      "name":  "Himeno",
+      "value":  48,
+      "colour":  "#00CDCD"
+    },
+    {
+      "name":  "Himeno's Sister",
+      "value":  1,
+      "colour":  "#66CD00"
+    },
+    {
+      "name":  "Hirokazu Arai",
+      "value":  12,
+      "colour":  "#66CD00"
+    },
+    {
+      "name":  "Katana Man",
+      "value":  17,
+      "colour":  "#FFEFDB"
+    },
+    {
+      "name":  "Kishibe",
+      "value":  12,
+      "colour":  "#FFD39B"
+    },
+    {
+      "name":  "Kobeni",
+      "value":  16,
+      "colour":  "#FFB6C1"
+    },
+    {
+      "name":  "Leech Devil",
+      "value":  2,
+      "colour":  "#66CD00"
+    },
+    {
+      "name":  "Madoka",
+      "value":  2,
+      "colour":  "#FFD39B"
+    },
+    {
+      "name":  "Makima",
+      "value":  33,
+      "colour":  "#EE2C2C"
+    },
+    {
+      "name":  "Michiko Tendo",
+      "value":  9,
+      "colour":  "#98F5FF"
+    },
+    {
+      "name":  "Pincer Fiend",
+      "value":  1,
+      "colour":  "#FFD39B"
+    },
+    {
+      "name":  "Pochita",
+      "value":  7,
+      "colour":  "#66CD00"
+    },
+    {
+      "name":  "Police 1",
+      "value":  1,
+      "colour":  "#8B8878"
+    },
+    {
+      "name":  "Police 2",
+      "value":  1,
+      "colour":  "#98F5FF"
+    },
+    {
+      "name":  "Power",
+      "value":  70,
+      "colour":  "#EE3B3B"
+    },
+    {
+      "name":  "Public Safety Executive 1",
+      "value":  1,
+      "colour":  "#FFB6C1"
+    },
+    {
+      "name":  "Public Safety Executive 2",
+      "value":  1,
+      "colour":  "#66CD00"
+    },
+    {
+      "name":  "Public Safety Executive 3",
+      "value":  1,
+      "colour":  "#FFD39B"
+    },
+    {
+      "name":  "Public Safety Receptionist",
+      "value":  1,
+      "colour":  "#8B8878"
+    },
+    {
+      "name":  "Sawatari minion 1",
+      "value":  1,
+      "colour":  "#98F5FF"
+    },
+    {
+      "name":  "Sawatari minion 2",
+      "value":  1,
+      "colour":  "#FFB6C1"
+    },
+    {
+      "name":  "Shiina",
+      "value":  1,
+      "colour":  "#FFD39B"
+    },
+    {
+      "name":  "Shuzou Mishima",
+      "value":  2,
+      "colour":  "#8B8878"
+    },
+    {
+      "name":  "Subordinate (Train)",
+      "value":  1,
+      "colour":  "#8B8878"
+    },
+    {
+      "name":  "Taiyo",
+      "value":  3,
+      "colour":  "#66CD00"
+    },
+    {
+      "name":  "Team E Assassin",
+      "value":  1,
+      "colour":  "#98F5FF"
+    },
+    {
+      "name":  "Udon Owner",
+      "value":  1,
+      "colour":  "#FFB6C1"
+    },
+    {
+      "name":  "Violence Fiend",
+      "value":  2,
+      "colour":  "#98F5FF"
+    },
+    {
+      "name":  "Yakuza 1",
+      "value":  1,
+      "colour":  "#66CD00"
+    },
+    {
+      "name":  "Yakuza Boss",
+      "value":  1,
+      "colour":  "#FFD39B"
+    },
+    {
+      "name":  "Yakuza Debt Collector",
+      "value":  4,
+      "colour":  "#98F5FF"
+    },
+    {
+      "name":  "Yutaro Kurose",
+      "value":  18,
+      "colour":  "#00C957"
+    },
+    {
+      "name":  "Zombie Devil",
+      "value":  2,
+      "colour":  "#FFB6C1"
+    }
+  ],
+  "links": [
+    {
+      "source":  0,
+      "target":  40,
+      "value":  37
+    },
+    {
+      "source":  2,
+      "target":  26,
+      "value":  24
+    },
+    {
+      "source":  0,
+      "target":  2,
+      "value":  23
+    },
+    {
+      "source":  0,
+      "target":  26,
+      "value":  16
+    },
+    {
+      "source":  0,
+      "target":  34,
+      "value":  15
+    },
+    {
+      "source":  2,
+      "target":  40,
+      "value":  14
+    },
+    {
+      "source":  40,
+      "target":  26,
+      "value":  12
+    },
+    {
+      "source":  57,
+      "target":  35,
+      "value":  8
+    },
+    {
+      "source":  0,
+      "target":  37,
+      "value":  7
+    },
+    {
+      "source":  0,
+      "target":  29,
+      "value":  7
+    },
+    {
+      "source":  29,
+      "target":  1,
+      "value":  7
+    },
+    {
+      "source":  2,
+      "target":  34,
+      "value":  6
+    },
+    {
+      "source":  0,
+      "target":  28,
+      "value":  6
+    },
+    {
+      "source":  16,
+      "target":  0,
+      "value":  6
+    },
+    {
+      "source":  2,
+      "target":  57,
+      "value":  6
+    },
+    {
+      "source":  2,
+      "target":  28,
+      "value":  5
+    },
+    {
+      "source":  40,
+      "target":  31,
+      "value":  5
+    },
+    {
+      "source":  34,
+      "target":  35,
+      "value":  5
+    },
+    {
+      "source":  0,
+      "target":  30,
+      "value":  5
+    },
+    {
+      "source":  40,
+      "target":  30,
+      "value":  5
+    },
+    {
+      "source":  0,
+      "target":  56,
+      "value":  4
+    },
+    {
+      "source":  2,
+      "target":  31,
+      "value":  4
+    },
+    {
+      "source":  26,
+      "target":  28,
+      "value":  4
+    },
+    {
+      "source":  0,
+      "target":  31,
+      "value":  4
+    },
+    {
+      "source":  34,
+      "target":  57,
+      "value":  4
+    },
+    {
+      "source":  2,
+      "target":  35,
+      "value":  4
+    },
+    {
+      "source":  40,
+      "target":  6,
+      "value":  3
+    },
+    {
+      "source":  0,
+      "target":  6,
+      "value":  3
+    },
+    {
+      "source":  26,
+      "target":  31,
+      "value":  3
+    },
+    {
+      "source":  40,
+      "target":  28,
+      "value":  3
+    },
+    {
+      "source":  16,
+      "target":  26,
+      "value":  3
+    },
+    {
+      "source":  2,
+      "target":  1,
+      "value":  3
+    },
+    {
+      "source":  58,
+      "target":  0,
+      "value":  2
+    },
+    {
+      "source":  40,
+      "target":  34,
+      "value":  2
+    },
+    {
+      "source":  0,
+      "target":  32,
+      "value":  2
+    },
+    {
+      "source":  2,
+      "target":  17,
+      "value":  2
+    },
+    {
+      "source":  2,
+      "target":  50,
+      "value":  2
+    },
+    {
+      "source":  30,
+      "target":  26,
+      "value":  2
+    },
+    {
+      "source":  2,
+      "target":  30,
+      "value":  2
+    },
+    {
+      "source":  31,
+      "target":  28,
+      "value":  2
+    },
+    {
+      "source":  16,
+      "target":  2,
+      "value":  2
+    },
+    {
+      "source":  31,
+      "target":  14,
+      "value":  2
+    },
+    {
+      "source":  0,
+      "target":  15,
+      "value":  2
+    },
+    {
+      "source":  40,
+      "target":  14,
+      "value":  2
+    },
+    {
+      "source":  19,
+      "target":  14,
+      "value":  2
+    },
+    {
+      "source":  2,
+      "target":  10,
+      "value":  2
+    },
+    {
+      "source":  2,
+      "target":  29,
+      "value":  2
+    },
+    {
+      "source":  34,
+      "target":  30,
+      "value":  2
+    },
+    {
+      "source":  2,
+      "target":  20,
+      "value":  2
+    },
+    {
+      "source":  54,
+      "target":  56,
+      "value":  1
+    },
+    {
+      "source":  54,
+      "target":  0,
+      "value":  1
+    },
+    {
+      "source":  34,
+      "target":  11,
+      "value":  1
+    },
+    {
+      "source":  34,
+      "target":  12,
+      "value":  1
+    },
+    {
+      "source":  34,
+      "target":  52,
+      "value":  1
+    },
+    {
+      "source":  11,
+      "target":  52,
+      "value":  1
+    },
+    {
+      "source":  38,
+      "target":  39,
+      "value":  1
+    },
+    {
+      "source":  2,
+      "target":  36,
+      "value":  1
+    },
+    {
+      "source":  0,
+      "target":  44,
+      "value":  1
+    },
+    {
+      "source":  34,
+      "target":  41,
+      "value":  1
+    },
+    {
+      "source":  34,
+      "target":  42,
+      "value":  1
+    },
+    {
+      "source":  2,
+      "target":  4,
+      "value":  1
+    },
+    {
+      "source":  2,
+      "target":  3,
+      "value":  1
+    },
+    {
+      "source":  50,
+      "target":  4,
+      "value":  1
+    },
+    {
+      "source":  16,
+      "target":  40,
+      "value":  1
+    },
+    {
+      "source":  2,
+      "target":  19,
+      "value":  1
+    },
+    {
+      "source":  2,
+      "target":  15,
+      "value":  1
+    },
+    {
+      "source":  2,
+      "target":  14,
+      "value":  1
+    },
+    {
+      "source":  0,
+      "target":  14,
+      "value":  1
+    },
+    {
+      "source":  33,
+      "target":  14,
+      "value":  1
+    },
+    {
+      "source":  26,
+      "target":  19,
+      "value":  1
+    },
+    {
+      "source":  19,
+      "target":  28,
+      "value":  1
+    },
+    {
+      "source":  28,
+      "target":  15,
+      "value":  1
+    },
+    {
+      "source":  26,
+      "target":  34,
+      "value":  1
+    },
+    {
+      "source":  19,
+      "target":  34,
+      "value":  1
+    },
+    {
+      "source":  34,
+      "target":  49,
+      "value":  1
+    },
+    {
+      "source":  26,
+      "target":  29,
+      "value":  1
+    },
+    {
+      "source":  40,
+      "target":  29,
+      "value":  1
+    },
+    {
+      "source":  26,
+      "target":  21,
+      "value":  1
+    },
+    {
+      "source":  0,
+      "target":  1,
+      "value":  1
+    },
+    {
+      "source":  29,
+      "target":  45,
+      "value":  1
+    },
+    {
+      "source":  13,
+      "target":  57,
+      "value":  1
+    },
+    {
+      "source":  13,
+      "target":  35,
+      "value":  1
+    },
+    {
+      "source":  8,
+      "target":  9,
+      "value":  1
+    },
+    {
+      "source":  46,
+      "target":  48,
+      "value":  1
+    },
+    {
+      "source":  1,
+      "target":  46,
+      "value":  1
+    },
+    {
+      "source":  1,
+      "target":  51,
+      "value":  1
+    },
+    {
+      "source":  34,
+      "target":  8,
+      "value":  1
+    },
+    {
+      "source":  29,
+      "target":  48,
+      "value":  1
+    },
+    {
+      "source":  34,
+      "target":  9,
+      "value":  1
+    },
+    {
+      "source":  31,
+      "target":  1,
+      "value":  1
+    },
+    {
+      "source":  31,
+      "target":  29,
+      "value":  1
+    },
+    {
+      "source":  34,
+      "target":  33,
+      "value":  1
+    },
+    {
+      "source":  2,
+      "target":  27,
+      "value":  1
+    },
+    {
+      "source":  1,
+      "target":  22,
+      "value":  1
+    },
+    {
+      "source":  1,
+      "target":  23,
+      "value":  1
+    },
+    {
+      "source":  29,
+      "target":  22,
+      "value":  1
+    },
+    {
+      "source":  29,
+      "target":  25,
+      "value":  1
+    },
+    {
+      "source":  1,
+      "target":  24,
+      "value":  1
+    },
+    {
+      "source":  34,
+      "target":  55,
+      "value":  1
+    },
+    {
+      "source":  47,
+      "target":  30,
+      "value":  1
+    },
+    {
+      "source":  18,
+      "target":  30,
+      "value":  1
+    },
+    {
+      "source":  47,
+      "target":  18,
+      "value":  1
+    },
+    {
+      "source":  7,
+      "target":  53,
+      "value":  1
+    },
+    {
+      "source":  7,
+      "target":  30,
+      "value":  1
+    },
+    {
+      "source":  53,
+      "target":  30,
+      "value":  1
+    },
+    {
+      "source":  5,
+      "target":  30,
+      "value":  1
+    },
+    {
+      "source":  2,
+      "target":  5,
+      "value":  1
+    },
+    {
+      "source":  34,
+      "target":  43,
+      "value":  1
+    },
+    {
+      "source":  38,
+      "target":  2,
+      "value":  1
+    },
+    {
+      "source":  39,
+      "target":  2,
+      "value":  1
+    }
+  ]
+}
